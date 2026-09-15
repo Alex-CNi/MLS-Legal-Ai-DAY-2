@@ -1,0 +1,146 @@
+al and proprietary claims, it would 
+equally be odd if the appellants could turn from inevitable failure, if they had made a 
+proprietary claim to the shares, to success in a knowing receipt claim. The reason the 
+equitable proprietary claim would here fail is the same reason why the personal claim 
+in knowing receipt should fail. 
+(5) Further support from the law on equitable tracing
+160. In Foskett v McKeown [2001] 1 AC 102 (“Foskett”) Lord Millett, giving the 
+leading speech, made clear that tracing is different from following. Following is 
+concerned with where the same asset goes from one person to another. Tracing, in 
+contrast, is concerned with identifying a new asset as a substitute for the original asset. 
+Page 52
+
+Lord Millett explained that tracing is neither a claim nor a remedy. Rather it is the 
+process by which the law treats one asset as the substitute for another. The equitable 
+tracing rules have traditionally been understood to be less restrictive than the common 
+law tracing rules (eg in permitting tracing into a mixed fund) albeit that, not least 
+because tracing is merely a process, drawing that distinction between common law 
+and equitable tracing is hard to defend in principle (as was recognised in obiter dicta 
+of Lord Millett and Lord Steyn in Foskett [2001] 1 AC 102, 113, 128-129). 
+161. Tracing may be necessary not only where the claimant brings an equitable 
+proprietary claim seeking the return of a substitute asset but also where the claimant 
+brings a claim in knowing receipt and the relevant asset received (or retained) is a 
+substitute asset. See, eg, the second of Hoffmann LJ’s principles in El Ajou set out at 
+para 115(ii) above; and as Lord Millett said in Foskett, at p 128, “The successful 
+completion of a tracing exercise may be preliminary to a personal claim … or a 
+proprietary one”. It is instructive to see that the debate in the case before us may be 
+regarded as linked to the debate as to how one explains claims (or, one might say, 
+remedies) consequent on equitable tracing. 
+162. It was laid down in In re Diplock [1948] Ch 465, 530, 536-537, 540, that, at the 
+start, the claimant who seeks to invoke equitable tracing rules needs to have an 
+equitable proprietary interest. As Graham Virgo succinctly puts it in The Principles of 
+Equity and Trusts 5th ed, (2023) p 615: 
+“Tracing at [common law] is relevant where the claimant 
+has a legal proprietary base; the equitable tracing rules apply 
+where a claim is founded on an equitable proprietary base.” 
+163. As regards the claims (or remedies) at the end of the tracing process, Lord 
+Millett in Foskett reasoned that an equitable proprietary claim to a traced asset, as was 
+in issue in that case, rests on a continuing beneficial interest. He said at pp 127 and 
+129:
+“Having completed this [tracing] exercise, the plaintiffs 
+claim a continuing beneficial interest in the insurance 
+money…. The claimant succeeds if at all by virtue of his 
+own title, not to reverse unjust enrichment… A beneficiary 
+of a trust is entitled to a continuing beneficial interest not 
+merely in the trust property but in its traceable proceeds 
+also, and his interest binds everyone who takes the property 
+or its traceable proceeds except a bona fide purchaser for 
+value without notice… [T]he plaintiffs seek to vindicate 
+their property rights, not to reverse unjust enrichment…”. 
+Page 53
+
+164. Lord Millett also indicated that the claimant making an equitable proprietary 
+claim must make an election whether to follow and claim the original asset (if it still 
+exists) or to trace and claim the substitute asset (the claimant cannot have both).
+165. Mr Green and the courts below barely mentioned tracing or Foskett to support 
+their reasoning. In contrast, Mr Crow happily embraced Foskett while arguing that 
+what was said in that case was perfectly correct for an equitable proprietary claim but 
+was irrelevant to a personal claim for knowing receipt. However, it would appear that, 
+if Lord Millett’s analysis in Foskett is correct, the requirements for, and application of, 
+equitable tracing add further support to the principled position that has been set out 
+above. That is, where the claim for knowing receipt rests on a substitute asset having 
+been received or retained, equitable tracing, according to Lord Millett in Foskett, 
+requires the claimant to have had (at the time of receipt or retention) a continuing 
+equitable proprietary interest in that substitute asset. 
+166. Some commentators (most notably Peter Birks, Unjust Enrichment 2nd ed, 
+(2005) pp 34-36) have suggested that the reasoning of Lord Millett in Foskett, as 
+encapsulated in the passages set out in para 163 above, is problematic and that there is 
+a preferable unjust enrichment explanation for proprietary (and personal) claims (or 
+remedies) after equitable tracing. But neither party sought to challenge the reasoning 
+in Foskett and, as I have already made clear, Mr Crow was not seeking to rely on the 
+law of unjust enrichment as a possible rationalisation of the law on knowing receipt 
+(whether tracing is, or is not, involved). 
+(6) After-acquired knowledge and bona fide purchase without notice
+167. A further and very powerful argument in favour of the correct legal position 
+being that favoured by the lower courts concerns after-acquired knowledge and 
+equity’s darling. The argument rests on the legal position being that the defendant’s 
+knowledge of the breach of trust, after the asset has been acquired by the defendant or 
+another as a bona fide purchaser for value of the legal title without notice, does not 
+render the defendant liable for knowing receipt: ie knowledge of the breach of trust 
+does not count once legal title has passed to equity’s darling. Although not mentioning 
+knowing receipt as such, this principle was accepted in, for example, Re Stapleford 
+Colliery Co (1880) 14 Ch D 432, 445; Wilkes v Spooner [1911] 2 KB 473, 483; and 
+Independent Trustee Services Ltd v GP Noble Trustees Ltd [2013] Ch 91, [2012] 
+EWCA Civ 195, paras 47, 48 and 89-91.
+168. There are two variant fact situations on the same theme. In the first situation, 
+the defendant has acquired the relevant asset, transferred in breach of trust, as a bona 
+fide purchaser of the legal title for value without notice. At the time of acquisition, the 
+defendant did not have the requisite knowledge that the asset was being sold in breach 
+of trust. Let us assume that the defendant subsequently acquires that knowledge while 
+Page 54
+
+still retaining the asset. There is no possible claim for knowing receipt against the 
+defendant. As is said in Lewin on Trusts, 20th ed, (2020) para 42-083:
+“If he is a bona fide purchaser for value of a legal estate 
+without notice, he will take the property free from the 
+equitable interest of the beneficiaries and so cannot become 
+a constructive trustee on the basis of after-acquired 
+knowledge.”
+169. In the second situation, equity’s darling transfers the relevant asset to the 
+defendant, who has the requisite knowledge that the asset was transferred to equity’s 
+darling in breach of trust. Hence the following passage from Jamie Glister and James 
+Lee, Hanbury and Martin: Modern Equity 22nd ed, (2021) para 25-008 which also 
+refers to the first situation:
+“[K]nowing receipt cannot lie when the claimant does not 
+have an equitable right in property that the defendant 
+receives. So, if a recipient takes property as a bona fide 
+purchaser for value without notice of the breach of trust, she 
+will be protected from a knowing receipt claim even if she is 
+later made aware of the property's provenance. She could 
+even transfer the property on to someone who was always 
+aware of the initial breach and that second recipient would 
+not be liable in knowing receipt. This is because the 
+claimant's equitable right had already been extinguished.”
+170. Mr Crow pointed to the exception to this extinguishment or overriding 
+recognised in the cases set out in para 167 above. That exception arises where the 
+defaulting trustee reacquires the property from a third party bona fide purchaser of the 
+legal title for value without notice. But in that situation, the ordinary liability of a 
+trustee, both to proprietary and personal claims, is revived and the defaulting trustee is 
+rightly being denied the ability to shelter behind another’s bona fide purchase. The 
+defaulting trustee assumed the obligations of a trustee in relation to the asset and the 
+trustee should not be released from those obligations by its own breach of trust. The 
+trustee would otherwise be taking advantage of its own wrong. If therefore the trustee 
+re-acquires the asset, the trustee cannot deny, by relying on the intermediate transfer 
+to a third party having cleared the title, that it is holding the asset on trust for the 
+beneficiary. 
+171. It follows from this that I agree with the following written submission made by 
+Mr Green:
+Page 55
+
+“Where the proprietary effects of a transfer of trust property 
+by a trustee are governed by general equitable principles, the 
+third party transferee will take free of the beneficiary’s 
+equitable interest if the third party is a bona fide purchaser 
+of the legal estate or interest for value without notice of the 
+beneficiary’s equitable interest. It is plain that … a knowing 
+receipt claim is not available against such a bona fide 
+purchaser.
+One reason for this is that, by definition, the recipient lacks 
+knowledge of the breach of trust at the time of the transfer. 
+But a more fundamental reason is illustrated by the fact that 
+the bona fide purchaser does not become liable in knowing 
+receipt even if he later discovers the breach of trust while 
+still in possession of the property. He is not liable because 
+he has taken free of the beneficiary’s equitable interest.”
+(7) Conclusion on the principled position
+172. For all these reasons, my conclusion is that the principled answer to t

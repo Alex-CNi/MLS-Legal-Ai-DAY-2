@@ -1,0 +1,142 @@
+y and must 
+succeed, if at all, by virtue of his own title. In the latter class 
+of case his claim arises from a breach of fiduciary or other 
+obligation on the part of the defendant. The distinction is 
+that drawn by equity between the claim of an equitable 
+owner to recover his property, or compensation for the 
+failure to restore it, from a person into whose hands it has 
+come and a claim by a plaintiff in respect of a breach of 
+fiduciary obligation owed to him. In the former case he 
+relies upon his continuing equitable interest in the property 
+under an express or resulting trust; in the latter upon an 
+equity between the parties which may in appropriate 
+circumstances give rise to a constructive trust. The 
+distinction, which is crucial, may have been lost sight of in 
+the language of some of the more recent decisions on 
+knowing receipt. Macmillan’s claim is of the former kind. In 
+respect of the Berlitz shares there was no relationship of any 
+kind between Macmillan and any of the defendants. There is 
+no equity between them. In the absence of such an equity, 
+any liability of the defendants to restore the shares or their 
+proceeds to Macmillan or to pay compensation for their 
+failure to do so must be based upon Macmillan's continuing 
+equitable ownership of the shares. In the language of 
+restitution, Macmillan's claim must rest upon ‘an 
+undestroyed proprietary base’. Such a claim cannot succeed 
+against a party who has under the applicable law acquired a 
+title to the shares which is superior to that of Macmillan.” 
+(emphasis added)
+74. After fending off a submission that his analysis conflicted with his own 
+judgment in El Ajou v Dollar Land (supra), he concluded at p 990:
+“In my judgment, Macmillan's claim is properly to be 
+characterised as a restitutionary claim which depends upon 
+establishing a continuing proprietary interest in the subject 
+matter of the claim; each of the defendants claims to have 
+acquired a security interest in that subject matter which is 
+superior to Macmillan's interest; and the question at issue is 
+whether any of the defendants can identify a particular act or 
+event which had the result of extinguishing Macmillan's 
+interest or postponing it to that of the defendant. In my 
+judgment the defendants have correctly characterised the 
+issue as one of priority.”
+Page 24
+
+75. There is a striking similarity between the facts of Macmillan and this case. In 
+both cases a trustee for the claimant company misapplied foreign situated shares 
+beneficially owned by the claimant by transactions abroad which, under the applicable 
+foreign law, had the effect of giving the recipients clear title, or at least superior title, 
+to the shares, over any equitable beneficial interest of the claimant. That was in the 
+Macmillan case sufficient to defeat both the proprietary claims to the return of the 
+shares and personal claims for compensation in equity for breach of constructive trust 
+by the recipients. In terms of ratio the key outcome in Macmillan was that foreign law 
+governing the relevant share transactions was effective to defeat a purely equitable 
+claim against defendants amenable to the jurisdiction of the English court, by 
+overriding the equitable interest which had until then subsisted in the shares in favour 
+of the claimant. 
+76. But the authority of Macmillan for present purposes is diminished by two 
+factors. The first is the way in which Millett J (perhaps following the fashion of the 
+time) sought to clothe equitable claims in the language of restitution and unjust 
+enrichment. This was in my view a distraction. The relevant question is however 
+whether a claim in knowing receipt is, like a proprietary claim, dependent upon the 
+claimant having a continuing equitable interest in the subject property when it reaches 
+the hands of the defendant. 
+77. It is I think possible to look through Millett J’s invocation of the law of 
+restitution to discern a principled basis for his view that an “undestroyed proprietary 
+base” was a necessary element in both a personal and a proprietary claim. His focus 
+was on the difference between an equitable claim based upon a pre-existing 
+relationship recognised by equity (such as trustee and beneficiary or fiduciary and 
+client) and a claim against a stranger between whom and the claimant there was no 
+prior equity, the latter claim being necessarily based upon the claimant’s continuing 
+equitable interest in (or equitable ownership of) the subject property. Leaving aside 
+dishonest assistance, where the defendant is truly liable as an accessory to the trustee 
+with the prior equitable relationship, I consider that this distinction is sound in 
+principle. It explains why for example (as explained above) a beneficiary may claim 
+against an original trustee who reacquires the subject property after disposing of it to 
+equity’s darling in breach of trust, but not against a successor in title to equity’s 
+darling who has no prior relationship in equity with the claimant. The equity against 
+the original trustee arises directly from the trustee / beneficiary relationship between 
+them. By contrast all other successors in title to equity’s darling are strangers, between 
+whom and the claimant there is no equity at all.
+78. The second diminishing factor is that the case was mainly about a proprietary 
+rather than a personal claim. This was much relied upon by Mr Crow, who went so far 
+as to submit that there was no real personal claim at all, not least because the 
+defendants retained the shares (or their security interests in them) when the claim was 
+made. Even if there were an additional personal claim against the defendants, there 
+Page 25
+
+was no analysis in the judgments of the requirements for a knowing receipt claim, or 
+any discussion of the authorities about them. There is some force in this submission. 
+Nonetheless the judgments do mention the parallel personal claim for compensation in 
+equity for breach of constructive trust, and it was pleaded. Since no allegation was 
+made of dishonest assistance, it is hard to see what could justify such a claim other 
+than knowing receipt. By way of analogy with the present case, the Disputed 
+Securities remained in the hands of Samba when the present claim was brought. It 
+seems to me counter-intuitive to think that the claimant can in such a case avoid the 
+need to show a continuing equitable interest in the subject property (which it is 
+accepted is a requirement for a proprietary claim) just by choosing to sue only in 
+knowing receipt. 
+79. In the end this court is not concerned with the question whether the Macmillan 
+case contains a binding ratio, but rather with the question what light it sheds upon the 
+question of principle which we have to decide. Viewed in that way I consider that 
+Millett J’s judgment does assist in the manner which I have described. The defendant 
+to a knowing receipt claim is just as much a stranger to the claimant, with no prior 
+relationship recognised by equity, as is a recipient against whom a purely proprietary 
+claim is made. I need say little about the reasoning of the Court of Appeal, because 
+they were hearing only a preliminary issue about identifying the applicable law, which 
+did not on its own call for analysis of the issue before this court.
+80. The remaining authorities may be addressed more briefly, beginning with 
+Lightning v Lightning Electrical Contractors Ltd (1998) 23 TLI 35. This was a 
+resulting trust claim arising from the payment by the claimant of the purchase price of 
+a property in Scotland bought in the defendant’s name. Scots law was alleged not to 
+recognise a resulting trust, but the Court of Appeal held that English law applied, and 
+the claim succeeded. At p 38 Peter Gibson LJ endorsed the principled analysis by 
+Millett J in Macmillan which I have described above, noting in particular that, in the 
+absence of a pre-existing equity between the parties, the claimant will be forced to 
+rely upon a continuing equitable interest in the property which may be vulnerable to 
+being extinguished by the lex situs. Lightning v Lightning is of some help in lending 
+the authority of the Court of Appeal to Millett J’s analysis in Macmillan, but it is not a 
+knowing receipt case and adds little original analysis of its own.
+81. In BCCI v Akindele [2001] Ch 437 the defendant received a net US$6.679m of 
+the claimant companies’ money pursuant to a fraudulent scheme by the employees of 
+one of them. A claim to recover the money failed due to the defendant’s lack of the 
+requisite knowledge, for either dishonest assistance (then still called knowing 
+assistance) or knowing receipt. It is relied upon by the appellants for the ringing 
+endorsement by the Court of Appeal of the reasoning of the Vice Chancellor in In re 
+Montagu’s Settlement Trusts for imposing something more than notice as the basis for 
+liability in knowing receipt. At p 455 Nourse LJ concluded:
+Page 26
+
+“For these reasons I have come to the view that, just as there 
+is now a single test of dishonesty for knowing assistance, so 
+ought there to be a single test of knowledge for knowing 
+receipt. The recipient’s state of knowledge must be such as 
+to make it unconscionable for him to retain the benefit of the 
+receipt.”
+82.  In my view, for the reasons already given, so flexible a test of the requirement 
+for knowledge wrongly elevates unconscionability from an equitable objective into an 
+unruly and unpredictable test for liability, with unacceptable adverse consequences for 
+certainty in resolving issues as to priority of title to property. Mr Crow relied upon the 
+case as one of a number in which the prevention of unconscionability is elevated to 
+the cardinal purpose of the knowing receipt doctrine, freed from any need to base the 
+claim on a continuing equitable interest. But at p 448 Nourse LJ had already cited with 
+approval Hoffmann LJ’s summary of the three conditions for li

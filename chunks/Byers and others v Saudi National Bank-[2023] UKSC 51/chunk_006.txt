@@ -1,0 +1,163 @@
+hey almost invariably are) 
+vested in the company. A little more help is to be derived from Belmont Finance 
+Corpn v Williams Furniture Ltd (No 2) [1980] 1 All ER 393. That was a knowing 
+receipt case, in the sense that, although dishonest assistance and knowing receipt were 
+both pleaded, only the knowing receipt case succeeded, and that only in the Court of 
+Appeal. It was another case of misappropriation of company money by its directors, in 
+breach of section 54. Giving the leading judgment, Buckley LJ sought to explain how 
+a Barnes v Addy type of constructive trust could arise in the absence of a pre-existing 
+trust. At p 405 he said:
+Page 16
+
+“A limited company is of course not a trustee of its own 
+funds: it is their beneficial owner; but in consequence of the 
+fiduciary character of their duties the directors of a limited 
+company are treated as if they were trustees of those funds 
+of the company which are in their hands or under their 
+control, and if they misapply them they commit a breach of 
+trust (Re Lands Allotment Co, per Lindley and Kay LJJ). So, 
+if the directors of a company in breach of their fiduciary 
+duties misapply the funds of their company so that they 
+come into the hands of some stranger to the trust who 
+receives them with knowledge (actual or constructive) of the 
+breach, he cannot conscientiously retain those funds against 
+the company unless he has some better equity. He becomes 
+a constructive trustee for the company of the misapplied 
+funds.” (emphasis added).
+59. Both Ungoed-Thomas J and Buckley LJ relied upon the same passage from the 
+judgment of Kay LJ in In re Lands Allotment Co [1894] 1 Ch 616, 637-639, where he 
+said:
+“I conceive that the directors of every company being the 
+managing agents of a trading concern have considerable 
+authority and power in dealing with outstanding debts due to 
+the concern [. . .] but if they deal with the funds of a 
+company, although those funds are not absolutely vested in 
+them, but funds which are under their control, and deal with 
+those funds in a manner which is beyond their powers, then 
+as to that dealing they are treated as having committed a 
+breach of trust […] directors are not always trustees. As 
+directors they are not trustees at all. They are only trustees 
+qua the particular property which is put into their hands or 
+under their control, and which they have applied in a manner 
+which is beyond the powers of the company, I conceive that 
+qua such fund they are constructive trustees, or trustees by 
+implication of law.”
+60. The above dicta fall short of providing a completely neat and satisfying 
+explanation of how the knowing receipt doctrine works in relation to the property of 
+companies. It is common ground that there is no pre-existing trust or separation of 
+legal title from beneficial interest for as long as legal title remains vested in the 
+company. Mr Crow submits that the repeated application of the knowing receipt 
+doctrine to such a situation demonstrates that a continuing equitable interest in the 
+misapplied property cannot be an essential condition for its operation. In response, 
+once he squarely addressed the point, Mr Green submitted that equity applied the 
+Page 17
+
+knowing receipt doctrine by treating corporate property as subject to a trust by 
+analogy. Later he firmed up his analysis by submitting that a trust, with a concomitant 
+splitting of legal title from the company’s continuing beneficial interest in the 
+misapplied property occurred at the moment of the transfer which constituted the 
+misapplication. Legal title passed to the transferee, but the equitable beneficial interest 
+remained with the company. Therefore the company retained the equitable interest 
+sufficient to support a proprietary claim to the property or its traceable proceeds, and a 
+knowing receipt personal claim against any recipient who had received the property 
+with notice of the misapplication, subject to any overriding of its equitable interest in 
+the meantime.
+61. I consider that Mr Green’s final submission on this issue is correct. It best fits 
+with all the dicta summarised above. First, the analysis in In re Lands Allotment 
+speaks of the trust arising when the misapplication of company property takes place. 
+The same analysis is also supported by Millett J in Agip (Africa) Ltd v Jackson [1990] 
+Ch 265, 290 D-F. Secondly Ungoed-Thomas J is at pains to emphasise that this is a 
+real trust and not just a breach of fiduciary duty treated like a breach of trust merely 
+by analogy. Thirdly and decisively Buckley LJ implicitly recognises a continuing 
+equitable interest remaining in the company after the transfer because of his 
+acknowledgment that the company’s knowing receipt claim may be defeated by a 
+recipient with a better equity. That would of course include equity’s darling, and that 
+is I think what Buckley LJ had in mind. 
+62. This final point is, quite independently of the need to make sense of the 
+corporate property problem, a clear indicator that a successful outcome to a knowing 
+receipt claim depends upon a contest between equitable priorities, ie between a 
+continuing equitable interest of the claimant and such interest as the recipient may 
+have acquired. That is what Millett J said about a knowing receipt claim in Agip v 
+Jackson (supra) at p 292 as part of his explanation contrasting knowing receipt and 
+dishonest assistance. He said:
+“The basis of liability in the two types of cases is quite 
+different; there is no reason why the degree of knowledge 
+required should be the same, and good reason why it should 
+not. Tracing claims and cases of ‘knowing receipt’ are both 
+concerned with rights of priority in relation to property 
+taken by a legal owner for his own benefit; cases of 
+‘knowing assistance’ are concerned with the furtherance of 
+fraud.” (My emphasis).
+63. The next important case on knowing receipt chronologically is In re Montagu’s 
+Settlement Trusts [1987] Ch 264. The tenth Duke of Manchester received from 
+trustees of a family settlement various family chattels which should have been held on 
+Page 18
+
+trust. He disposed of some of them during his lifetime and after his death the eleventh 
+Duke sought an account in respect of them on the basis of knowing receipt by the 
+tenth Duke. The claim failed because Sir Robert Megarry VC decided that the tenth 
+Duke lacked the requisite knowledge. The case is famous for Sir Robert’s conclusion 
+that knowledge rather than mere notice was the required mental condition for knowing 
+receipt. The tenth Duke was of course a pure volunteer in relation to the chattels 
+which he received, so no question of overreaching or overriding of the interests of the 
+beneficiaries could have arisen, nor therefore any doubt that those beneficiaries 
+retained an equitable beneficial interest in the chattels sufficient if necessary to 
+support a claim in knowing receipt.
+64. Nonetheless Mr Crow placed reliance on the analytical basis whereby the Vice 
+Chancellor reached his decision about the requirement for knowledge of the breach of 
+trust. The judgment was given in two parts, on 21 December 1983 and 29 March 
+1985, with further argument on the constructive trust in between. The passages relied 
+upon by Mr Crow all appear in the second judgment, but they need to be read in 
+conjunction with this short dictum in the first, at p 272:
+“The question is not merely whether a person is to take a 
+property subject to an equity but whether the full burden of 
+trusteeship is to be imposed on him by construction of 
+equity.”
+At p 277 in the second judgment he said:
+“It seems to me that one must be very careful about applying 
+to constructive trusts either the accepted concepts of notice 
+or any analogy to them. In determining whether a 
+constructive trust has been created, the fundamental 
+question is whether the conscience of the recipient is bound 
+in such a way as to justify equity in imposing a trust on 
+him.”
+At p 278 he said:
+“Third, there seems to me to be a fundamental difference 
+between the questions that arise in respect of the doctrine of 
+purchaser without notice and constructive trusts. As I said in 
+my previous judgment, ante, pp 272H—273B:
+Page 19
+
+‘The former is concerned with the question whether a 
+person takes property subject to or free from some 
+equity. The latter is concerned with whether or not a 
+person is to have imposed upon him the personal 
+burdens and obligations of trusteeship. I do not see 
+why one of the touchstones for determining the 
+burdens on property should be the same as that for 
+deciding whether to impose a personal obligation on 
+a man. The cold calculus of constructive and imputed 
+notice does not seem to me to be an appropriate 
+instrument for deciding whether a man's conscience 
+is sufficiently affected for it to be right to bind him 
+by the obligations of a constructive trustee.’
+I can see no reason to resile from that statement, save that to 
+meet possible susceptibilities I would alter ‘man’ to 
+‘person’. I would only add that there is more to being made 
+a trustee than merely taking property subject to an equity.”
+Summarising his conclusions at p 285, the Vice-Chancellor set out eight principles. 
+The first two deserve quoting:
+“(1) The equitable doctrine of tracing and the imposition of 
+a constructive trust by reason of the knowing receipt of trust 
+property are governed by different rules and must be kept 
+distinct. Tracing is primarily a means of determining the 
+rights of property, whereas the imposition of a constructive 
+trust creates personal obligations that go beyond mere 
+property rights.
+(2) In considering whether a constructive trust has arisen in 
+a case of the knowing receipt of trust property, the basic 
+question is whether the conscience of the recipient is 
+sufficiently affected to justify the imposition of such a 
+trust.”
+65. These dicta certainly impose a higher mental element (knowledge rather than 
+mere notic

@@ -1,0 +1,137 @@
+ 448 Nourse LJ had already cited with 
+approval Hoffmann LJ’s summary of the three conditions for liability in knowing 
+receipt in El Ajou, and there was no doubt that, on the facts, the claimants did 
+demonstrate the necessary continuing equitable interest. 
+83. In Angove’s Pty Ltd v Bailey [2016] UKSC 47; [2016] 1 WLR 3179, 3191-
+3192, paras 27-29 there are trenchant dicta from Lord Sumption JSC to the effect that 
+the establishment of any kind of constructive trust other than by way of dishonest 
+assistance depends as an essential requisite upon there being identifiable trust property 
+(or its traceable proceeds) in the hands of the recipient which are not available to him 
+as part of his general assets. In his view a constructive trust by way of knowing receipt 
+cannot be used in English law as a form of remedial constructive trust by way of 
+remedy for unconscionable conduct. Where the claimant’s original equitable 
+beneficial interest in the subject property has been overreached or overridden, so as to 
+give the recipient a clear title, then the recipient plainly is entitled to treat the property 
+as being available to him as part of his general assets. 
+84.  I turn next to the authorities about the effect of overriding upon a transfer of 
+trust property in breach of trust to equity’s darling, when the property is later 
+transferred on to a recipient with notice. The story starts with this citation from 
+Ashburner’s Principles of Equity, upon which Vaughan Williams LJ based his 
+judgment in Wilkes v Spooner [1911] 2 KB 473, 483:
+“A purchaser for valuable consideration without notice can 
+give a good title to a purchaser from him with notice. The 
+only exception is that a trustee who has sold property in 
+breach of trust, or a person who has acquired property by 
+fraud, cannot protect himself by purchasing it from a bona 
+fide purchaser for value without notice.”
+Page 27
+
+Vaughan Williams LJ relied (as did Ashburner) upon a longer statement of the same 
+principle in Barrow’s Case (1880) 14 Ch D 432, 445 per Jessel MR.
+85. That principle was recently affirmed by the Court of Appeal in Independent 
+Trustee Services Ltd v GP Noble Trustees Ltd [2012] EWCA Civ 195; [2013] Ch 91, 
+115 per Patten LJ at paras 47-49. It is established beyond question as a long standing 
+equitable principle, and demonstrates how rigorous is the extinction of the 
+beneficiary’s former equitable interest when that which was originally trust property is 
+transferred in breach of trust to equity’s darling.
+86. Brief reference is also necessary to the very few authorities about the effect of 
+other kinds of overriding of an equitable interest in property. In Arthur v Attorney 
+General of the Turks and Caicos Islands [2012] UKPC 30, Crown land in the Turks 
+and Caicos Islands was sold in alleged breach of fiduciary duty at the direction of the 
+responsible minister and came to be registered in the name of the defendant under the 
+Torrens system of land registration introduced into the Islands by the Registered Land 
+Ordinance. Section 23 of the Ordinance provided, subject to certain exceptions, that 
+registration with absolute title gave the registered proprietor clear title to the land, free 
+from all other interests and claims. The Crown sought to recover the land by an 
+equitable proprietary claim and in the alternative compensation by way of knowing 
+receipt. The defendant applied to have the claim struck out, relying on section 23, but 
+failed at all levels, including the Privy Council. Section 23 was subject to the proviso 
+that nothing in the section shall be taken to relieve a proprietor from any duty or 
+obligation to which he is subject as a trustee (“proviso (i)”).
+87. After reviewing the main authorities on knowing receipt Sir Terence Etherton 
+giving the advice of the Board noted, at paragraph 38, that it was common ground 
+that, if section 23 barred a proprietary claim then it also barred a personal claim in 
+knowing receipt, on the basis that:
+“Both sides appear to have proceeded on the assumption that 
+knowing receipt claims, even though for personal relief, are 
+properly viewed as a vindication of pre-existing property 
+rights and are parasitic on those property rights and so are 
+inappropriate against a purchaser who takes free from the 
+prior trust interests by virtue of the Torrens system in 
+question.”
+In the end Sir Terence advised that it was at least arguable that, read with other 
+provisions of the Ordinance, proviso (i) did permit both proprietary and personal 
+claims to be pursued by the Crown against the defendant as registered proprietor. 
+Page 28
+
+88. The Arthur case is therefore an example of a situation in which, but for proviso 
+(i), a statutory form of overriding of an equitable interest would have been sufficient 
+to preclude a claim in knowing receipt. But it lacks the weight of persuasive authority 
+because the critical point in issue in the present case went by concession. That 
+outcome is however powerfully supported by Matthew Conaglen and Amy 
+Goymour’s chapter on Knowing Receipt and Registered Land in Mitchell on 
+Constructive and Resulting Trusts (2010), which examines the effect of the English 
+Land Registration Act 2002 on a claim in knowing receipt. 
+89. The opposite conclusion was reached by Henderson J, applying the Land 
+Registration Act 2002, in Haque v Raja [2016] EWHC 1950 (Ch). The claimant Mr 
+Haque alleged that he had been the beneficial owner of a property held on resulting 
+trust for him by the first defendant, Ms Raja, who had sold it at an undervalue (and 
+therefore in breach of trust) to the second defendant Mr Khan, who had been 
+registered at HM Land Registry as proprietor with absolute title. Section 29 of the 
+2002 Act contained provision similar to that of section 23 of the Turks and Caicos 
+Ordinance, but without proviso (i). Mr Haque made a proprietary claim for the return 
+of the property which the judge held, on an interim application to discharge an 
+injunction against Mr Khan, was defeated by section 23. But he held that Mr Haque’s 
+alternative claim in knowing receipt was not so affected. At para 47 he said:
+“If the requisite degree of knowledge on the part of Mr 
+Khan is established, his liability as a constructive trustee 
+arises as a matter of law and attaches to the Property while it 
+remains in his ownership. It is a liability which affects his 
+conscience directly, and is not dependent upon the survival 
+of the claimant’s original beneficial interest as one which 
+binds the Property in his hands. This way of putting the 
+claim is therefore unaffected by the technicalities of 
+overreaching and land registration, as Ms Williamson 
+rightly accepted. It follows that the critical issue on this part 
+of the case is whether, on the facts, there is a serious 
+question to be tried.”
+In the event the judge concluded that, for different reasons, the knowing receipt claim 
+against Mr Khan had no real prospect of success, and he therefore discharged the 
+injunction.
+90. Here at last is a dictum on precisely the point in issue in this appeal, and at face 
+value wholly supportive of the appellants’ case, that liability in knowing receipt is not 
+dependent upon the survival of an equitable beneficial interest of the claimant at the 
+time when the property in issue comes into the defendant’s hands. But just like the 
+dictum to the opposite effect in the Arthur case, it appears to have been the subject of 
+Page 29
+
+a concession. The only knowing receipt authority cited to the judge was BCCI v 
+Akindele from which (perhaps because of the concession) it might have been thought 
+that the requisite unconscionable knowledge at a time when the defendant still held 
+the subject property was the only condition for liability.
+91. It will be apparent from what I have already said that I consider that the dictum 
+in para 47 of the judgment in Haque v Raja is simply wrong. It runs counter to the 
+whole thrust of the decisions on knowing receipt which I have reviewed above, 
+including Barnes v Addy, Belmont v Williams, El Ajou v Dollar Land, Macmillan v 
+Bishopsgate and Angove’s v Bailey. More to the point it runs contrary to the analysis 
+on basic equitable principle set out at the beginning of this judgment, and contains 
+nothing beyond bare assertion to fortify it. By contrast the contrary reasoning of the 
+same judge, by then sitting in the Court of Appeal after hearing full argument in 
+Davies v Ford [2023] EWCA Civ 167, paras 77-82, in which he followed the decision 
+of the Court of Appeal in the present case, suggests that it was the concession rather 
+than any considered analysis of his own which prompted his dictum in Haque v Raja. 
+92. In their written case counsel for the appellants placed great reliance upon the 
+decision of this court in Williams v Central Bank of Nigeria [2014] UKSC 10; [2014] 
+AC 1189, although it is fair to say that their reliance upon it was somewhat muted in 
+Mr Crow’s oral submissions. It was an important decision about the construction of 
+section 21 of the Limitation Act 1980, in the context of a claim based upon a fraud 
+upon the claimant, in which the defendant bank was alleged to have become involved 
+by way of dishonest assistance or knowing receipt. But it was not a case about the 
+conditions for the establishment of knowing receipt liability. The decision was that a 
+constructive trustee by way of dishonest assistance or knowing receipt was not a 
+“trustee” within the meaning of section 21(1)(a), so that the ordinary six year 
+limitation period applied to the claim. Nowhere is there any consideration of, let alone 
+decision about, the question whether a claim in knowing receipt depends upon the 
+claimant retaining an equitable interest in the subject property at the time of its receipt 
+by the defendant. As in so many of the other authorities, that continuing equitable 
+interest subsisted on the alleged facts, because no event was identified by w

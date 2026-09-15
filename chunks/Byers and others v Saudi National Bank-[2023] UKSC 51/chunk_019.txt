@@ -1,0 +1,68 @@
+mpany’s 
+expense. But alternatively, if the contract is void, the company may choose to bring an 
+equitable proprietary claim if the traceable asset is still retained or a personal claim for 
+knowing receipt based on the defendant having knowingly received the company’s 
+assets transferred in breach of fiduciary duty. 
+197. In any event, in BCCI v Akindele there would have been a complication in 
+applying contractual principles. This was because the relevant payment was made by a 
+third party rather than by the contracting company. The facts were that a contract was 
+entered into between International Credit and Investment Co (Overseas) Ltd (“ICIC”) 
+Page 63
+
+and Chief Akindele for the purchase of shares in BCCI Holdings. Another company 
+within the BCCI Group, BCCI (Overseas) Ltd, paid Akindele $16.679 million owing 
+under that contract. Unknown to Akindele, this was part of a fraudulent scheme by 
+officers of the BCCI Group enabling BCCI Holdings to buy its own shares. The Court 
+of Appeal dealt only with knowing receipt and did not embark on any contractual 
+analysis. But given that the relevant purported contract was between ICIC and 
+Akindele and not between BCCI (Overseas) Ltd and Akindele, it is understandable 
+that the Court of Appeal confined its attention to the knowing receipt claim based on 
+the breach of fiduciary duty by the directors of BCCI (Overseas) Ltd to that company 
+by the transfer of the assets of that company to Akindele. For the same reason it is far 
+from clear that Lord Nicholls’ criticism of the Court of Appeal can be supported. It 
+would appear that Lord Nicholls’s reasoning has not subsequently been relied on in 
+the case law as casting doubt on the approach to knowing receipt in BCCI v Akindele; 
+and in Thanakharn v Akai Holdings Ltd [2010] HKCFA 64, at para 128, Lord 
+Neuberger, sitting in the Hong Kong Court of Final Appeal, described Lord Nicholls’ 
+criticism as “an uncharacteristically obscure remark”. It may be, therefore, that Homer 
+nodded. Of course, this is not to deny that the “unconscionability” test adopted in 
+BCCI v Akindele is unsatisfactory for the different reason set out in para 101 above. 
+198. The upshot for our purposes is that, as is common ground between the parties 
+in their post-hearing written submissions, the Criterion case does not materially affect 
+the issues in this appeal. 
+7. A footnote on unjust enrichment 
+199. I have made clear (see para 102 above) that the appellants have not sought to 
+make any claim in the law of unjust enrichment. Nevertheless, in seeking to assist the 
+court, Mr Crow, prior to the start of his main oral submissions, did helpfully indicate 
+that, in principle, the appellants might have succeeded in an unjust enrichment claim 
+had it been pleaded. He suggested that Samba had been enriched by the receipt of the 
+shares, that that enrichment might be said to have been at the expense of SICL, and 
+that the unjust factor might have been the “want of authority” of Mr Al-Sanea. If 
+successful, it is clear that an unjust enrichment claim would impose strict liability, 
+subject to the principal defence of change of position, so that the knowledge of Samba 
+would have been irrelevant to establishing the prima facie claim (although it might 
+have come back in as being relevant to the change of position defence). 
+200. That there should be such an unjust enrichment claim, separate from and lying 
+alongside any claim for the equitable wrong of knowing receipt, was powerfully 
+argued by, for example, Lord Nicholls and Peter Birks in their book chapters referred 
+to in para 103 above (although for a contrary view, see, for example, Lionel Smith, 
+“Unjust Enrichment, Property and the Structure of Trusts” (2000) 116 LQR 412). 
+However, even if there had been a prima facie strict liability unjust enrichment claim 
+Page 64
+
+on the facts of this case, it is arguable that, as a matter of policy, the registration of 
+title in Samba’s name would have been a defence to the claim. This is because just as, 
+in a three-party situation, bona fide purchase of a legal title for value without notice is 
+a defence to an unjust enrichment claim (as recognised in Lipkin Gorman v Karpnale 
+Ltd [1991] 2 AC 548, 580) so one can argue that there should be an analogous defence 
+to a claim for unjust enrichment where unencumbered title to the shares was conferred 
+on the third party by registration of title. See generally Peter Birks, Unjust Enrichment 
+2nd ed, (2005) pp 242-244; Charles Mitchell, Paul Mitchell, and Stephen Watterson 
+(eds), Goff & Jones on Unjust Enrichment 10th ed, (2022) paras 29-12 to 29-17.
+8. Conclusion
+201. I conclude that, where there has been the transfer of an asset to a defendant in 
+breach of trust, there can be no claim for knowing receipt where the claimant, the 
+beneficiary under the trust, has no continuing equitable proprietary interest in the asset 
+received by the defendant. 
+202. For all these reasons, I would dismiss the appeal.
+Page 65

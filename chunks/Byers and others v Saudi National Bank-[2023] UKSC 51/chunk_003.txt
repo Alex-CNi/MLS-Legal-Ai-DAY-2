@@ -1,0 +1,131 @@
+o; Barrow’s Case (1880) 14 Ch D 432 CA, discussed below). 
+This must be because the transfer to D frees the property for all time from C’s 
+beneficial interest. It has been overridden. D gets a clear title to the property, and so 
+do D’s successors in title. But if the property comes back into the trustee T’s hands, T 
+holds it on trust for C, not by way of knowing receipt but because that is what T 
+always undertook to do. T’s re-acquisition of the property is treated as his making 
+good the breach of trust in parting with it in the first place. Thus X may be a volunteer 
+to whom D has given the property, but still takes free of C’s original beneficial 
+interest, by the overriding effect of the transfer to D. In sharp contrast a volunteer 
+(“V”) who receives a transfer direct from T (acting in breach of trust) immediately 
+holds it subject to C’s equitable proprietary claim regardless of knowledge or notice, 
+and to a personal claim in knowing receipt once V learns of the breach of trust.
+25. By contrast the approach of the appellant, on which everything depends on the 
+unconscionability of using property for one’s own benefit after receiving it in 
+consequence of a known earlier breach of trust, would tend to expose X to a knowing 
+receipt claim. X is not equity’s darling, and may even be a pure volunteer. X receives 
+the property knowing of the breach of trust involved in its transfer by T to D. This 
+approach would not treat C’s equitable interest as having been overridden, but merely 
+suspended in its effect for as long as the property remained in the hands of equity’s 
+darling D.
+26. In my judgment this supposed suspensory effect of a transfer to equity’s darling 
+is contrary to basic equitable principle. The whole purpose and effect of the doctrine 
+of equity’s darling is to confer full beneficial ownership of the property upon the bona 
+fide purchaser of the legal title for value without notice of an adverse equitable 
+interest. The ordinary effect of a transfer of legal title to a purchaser is to confer 
+beneficial ownership. Equity stops short of interposing equitable interests in 
+derogation of that outcome, because it regards a bona fide purchaser of the legal title 
+without notice as having the better right to ownership. The earlier equitable interest is 
+overridden, once and for all. For equity to impose liability in knowing receipt upon 
+equity’s darling, on subsequently learning of the breach of trust, or on a successor in 
+title to equity’s darling, would seriously detract from the full beneficial ownership 
+which equity treats a purchaser without notice as acquiring (see Harrison v Forth 
+Page 7
+
+(1695) Prec. Ch. 51; 24 ER 26), and from the once and for all effect of the principle 
+that an equitable interest may, in defined circumstances, be overridden.
+27. I therefore consider it to be clear on basic equitable principle that the remedy of 
+knowing receipt has no role to play once the claimant’s equitable interest has either 
+been overreached or overridden by a transfer to equity’s darling. 
+28. It is thus only the third type of transfer, which may conveniently be called 
+overriding by operation of law, that opens up the present battlefield. The question is, 
+where the law applicable either to the property or to its transfer gives the defendant a 
+clean title to it, and one which is good against any proprietary claim, can the 
+aggrieved beneficiary still say, before or after the defendant has disposed of it for his 
+own benefit: “you must return it to me, account to me or pay me equitable 
+compensation for its loss”.
+Uncertainties about Knowing Receipt 
+29. That question is by no means the only arguable uncertainty about the equitable 
+principles relating to knowing receipt. It is convenient to mention three others, which 
+are not for resolution on this appeal. The first is the relationship between knowing 
+receipt and unjust enrichment, a matter about which the court requested, and received, 
+brief oral submissions. It divides into two parts. The first is whether the pleaded and 
+proven facts could support a claim in unjust enrichment, alongside a claim in knowing 
+receipt. The second is whether the equitable doctrine of knowing receipt should be 
+treated as subsumed in or replaced by unjust enrichment. Counsel were united in 
+discouraging the court from exploring down either of those roads. Unjust enrichment 
+had not been pleaded as a cause of action by the appellants, nor had its constituent 
+factual elements been proved, nor had the respondent therefore been given the 
+opportunity to advance any potential defences.
+30. Counsel were also united in submitting that the general thrust of the judicial 
+dicta in the reported cases was inimical to any subsuming or replacement of knowing 
+receipt in or by unjust enrichment. Those dicta begin with Westdeutsche Landesbank 
+Girozentrale v Islington London Borough Council [1996] AC 669 at 685A-D and end 
+with the joint opinion of myself and Lord Sumption in DD Growth Premium 2X Fund 
+v RMF Market Neutral Strategies [2017] UKPC 36; [2018] Bus LR 1595, 1610, para 
+58:
+“Conceptually these two proposed bases of recovery are 
+very different. A common law liability in restitution depends 
+on the defendant having been unjustly enriched by the 
+receipt. The liability of a constructive trustee is essentially a 
+Page 8
+
+custodial liability comparable to that of an express trustee, 
+which is imposed on him because he has sufficient 
+knowledge to affect his conscience”.
+This is not the occasion for that question to be further reviewed.
+31. The second area of uncertainty is how the knowing receipt remedy, which in its 
+traditional form depends upon there being an original trust of the relevant property 
+and a split between legal title and beneficial ownership, works in relation to the many 
+reported cases in which a company (or its liquidator) seeks to pursue the remedy after 
+a transfer of company property at the behest of its directors acting in breach of 
+fiduciary duty. In such a case the company starts out as legal and beneficial owner of 
+the misapplied property. Courts of equity have proceeded upon an analogy between 
+the control which directors as fiduciaries have over company property, and the title 
+which trustees have to trust property, so that a misapplication of the company’s 
+property by the directors leaves the beneficial ownership with the company, for the 
+purpose both of equitable proprietary claims and claims in knowing receipt. The best-
+known attempts to explain this conundrum are to be found in Selangor United Rubber 
+Estates Ltd v Cradock (No 3) [1968] 1 WLR 1555, 1575-1577 per Ungoed-Thomas J 
+and in Belmont Finance Corpn v Williams Furniture Ltd (No 2) [1980] 1 All ER 393, 
+405, per Buckley LJ. It is not a point which arises for resolution in this case, because 
+there was of course a traditional trust of the Disputed Securities at the outset, with a 
+split between legal title and beneficial ownership between Mr Al-Sanea and SICL. 
+32. Nonetheless, as will appear, the absence of the traditional pre-existing trust 
+basis for the application of a knowing receipt remedy in the cases of corporate 
+misfeasance was prayed in aid by Mr Jonathan Crow KC for the appellants, in support 
+of his main submission that knowing receipt has nothing to do with a continuing 
+equitable proprietary interest of the claimant in the trust property after receipt by the 
+defendant. For his part Mr Brian Green KC for the respondent initially submitted that 
+to build a thesis on that anomaly in a case where it did not arise would be to let the tail 
+wag the dog. Under further questions from the court, he submitted that the analysis in 
+Belmont and Selangor demonstrated the court’s perception of a need to base knowing 
+receipt liability on the recognition of a continuing equitable interest in the company. I 
+will in due course explain why my own reading of those authorities leads me to the 
+same conclusion. 
+33. The third area of possible uncertainty concerns the precise boundaries and 
+content of the requirement to show what is now called “knowledge” necessary to 
+trigger the recipient’s personal liability to account or pay equitable compensation 
+under the doctrine of knowing receipt. It used to be called notice, even by some of the 
+most distinguished equity judges, but it is now common ground that it is knowledge 
+rather than mere notice that is required. This much is inherent in the phrase “knowing 
+Page 9
+
+receipt”. The uncertainty lies on the boundaries of what may amount to knowledge, 
+and in particular whether there is a category of knowledge called “constructive 
+knowledge”. That uncertainty does not arise in this case, because the process whereby 
+the appellant came to establish its factual case, involving as it did the barring of the 
+respondent from contesting most of the pleaded facts due to its failure to give 
+disclosure, produced the result that whatever was the knowledge precisely required, 
+Samba had it. That part of the requirements for establishing liability in knowing 
+receipt is therefore established beyond the respondent’s ability to challenge it. 
+34. But the submissions in the present appeal suggest that there may be a separate 
+area of uncertainty, namely whether the knowledge requirement in a particular case is 
+a flexible requirement based upon the concept of unconscionability, or whether there 
+is a single fixed knowledge requirement which applies in every case. An inherent part 
+of the appellants’ proposed definition of the basis of knowing receipt liability is an 
+essentially flexible approach to the knowledge requirement, being that the state of 
+knowledge must, on the facts of the particular case, be such as to render it 
+unconscionable for the recipient to retain the property for its own use and benefit.
+35. This is not the occasion to wrestle, in the absence of it mattering, and of full 
+submissions, with the first of those uncerta

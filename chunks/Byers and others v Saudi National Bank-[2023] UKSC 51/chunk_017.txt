@@ -1,0 +1,145 @@
+the principled position
+172. For all these reasons, my conclusion is that the principled answer to the 
+knowing receipt issue is that, at least in the context of a trust at the start of the story, 
+as on the facts of this case, liability for knowing receipt is dependent on the claimant, 
+the beneficiary under the trust, having a continuing equitable proprietary interest. 
+There can be no liability for knowing receipt once unencumbered legal title in the 
+asset has been conferred on the defendant.
+173. I should add two points for completeness. First, I reject Mr Crow’s submission 
+that acceptance of the respondent’s case would have the unfortunate policy 
+consequence of incentivising fraudsters to route assets to third parties through 
+jurisdictions where the law extinguishes equitable proprietary interests, thereby 
+escaping the reaches of an English knowing receipt claim. In my view, subject to there 
+being evidence to the contrary, I would expect the relevant criminal law (as enforced 
+by international cooperation) to act as a better disincentive to such conduct than the 
+civil law. However, even confining oneself to civil law, in such a situation, where the 
+third party is working with the trustee, there is no reason to think that the English law 
+on dishonest assistance would be an inadequate deterrent to such planning; and that 
+equitable wrong is not dependent on the continuation of an equitable proprietary 
+interest. Furthermore, acceptance of Mr Crow’s submission might be thought to 
+require the courts in this jurisdiction to depart from the principle of comity. In any 
+event, I do not accept that a policy concern of this kind can possibly undermine the 
+force of the principled contrary view set out above.
+Page 56
+
+174. Secondly, in answering the question of principle, I have derived no assistance 
+from considering sections 26 and 29 of the Land Registration Act 2002. The question 
+as to whether a knowing receipt claim can be brought where there has been 
+registration of title under that Act ultimately turns on statutory interpretation of those 
+particular provisions. Although our decision in this case will be of central relevance in 
+answering that question, there is no need for us to go on to decide it in this case and, 
+like the Court of Appeal (see para 115 (vii) above), I therefore prefer to say nothing 
+further about it. 
+6. What if there is no trust at the start of the story?
+(1) Directors and Ministers of the Crown
+175. Although there was no mention of this in the courts below, it is worth 
+considering whether the application of knowing receipt, in cases where, in contrast to 
+the facts of this case, there is no trust at the start of the story, might throw doubt on the 
+principled analysis that has been put forward above. After concerns expressed by the 
+court that there had been little focus on this in the appellants’ written submissions, Mr 
+Crow in the oral hearing did ultimately submit that a continuing equitable proprietary 
+interest cannot be a requirement for liability for knowing receipt because knowing 
+receipt has been applied in situations where the relevant assets are not initially held on 
+trust. 
+176. Two situations were drawn to our attention (there may be others) where 
+liability for knowing receipt has been held to arise in circumstances where an asset has 
+been transferred to the defendant in breach of a fiduciary duty even though, at the 
+start, the claimant had no equitable proprietary interest in the asset under a trust. 
+177. The first, and most prominent in the case law, is where a director (or other 
+officer) of a company, in breach of fiduciary duty to the company, has misapplied 
+assets of the company by transferring them to the defendant. There are many cases 
+that exemplify the application of the law on knowing receipt in this situation (although 
+in some of the cases, the claim failed because, for example, the defendant’s requisite 
+knowledge could not be proved). They include In re Lands Allotment Co [1894] 1 Ch 
+616; Selangor United Rubber Estates Ltd v Cradock (No 3) [1968] 1 WLR 1555, 
+1574-1577; Belmont Finance Corpn v Williams Furniture Ltd (No 2) [1980] 1 All ER 
+393; Rolled Steel Products (Holdings) Ltd v British Steel Corp [1986] Ch 246; Agip 
+(Africa) Ltd v Jackson [1991] Ch 547, 567-568; El Ajou; BCCI v Akindele; and 
+Ultraframe (UK) Ltd v Fielding [2005] EWHC 1638 (Ch), paras 1487–1488.
+178. The second situation is where a Minister of the Crown, in breach of fiduciary 
+duty to the Crown, has misapplied Crown land by transferring title to that land to the 
+Page 57
+
+defendant. The application of the law on knowing receipt in this situation is 
+exemplified by, for example, Arthur v Attorney General of the Turks and Caicos 
+Islands [2012] UKPC 30, and Akita Holdings Ltd v Attorney General of the Turks and 
+Caicos Islands [2017] UKPC 7, [2017] AC 590.
+179. The common feature of these two situations is that in neither of them is there a 
+trust at the start. A director of a company does not hold the assets of the company on 
+trust for the company: rather the company has legal title to those assets. Similarly, a 
+Minister does not hold title to Crown land on trust for the Crown: the Crown has legal 
+title to Crown land. 
+180. Mr Green, focusing on the director/company situation, submitted that this 
+situation presents no problem for a “continuing equitable proprietary interest” 
+requirement for knowing receipt because it has always been recognised that this 
+situation should be treated as analogous to cases where there is a trust. As far as the 
+conferral of unencumbered title is concerned, knowing receipt in this situation must be 
+subject to a requirement that is analogous to there being a continuing equitable 
+proprietary interest. Any other approach would involve, as Mr Green put it, “the tail 
+wagging the dog”. 
+181. I agree with the general thrust of that submission. It would be incoherent, 
+whether viewed as a matter of logic or policy, for a defendant to be in a different 
+position, as regards knowing receipt, in the non-paradigm situation than in the 
+paradigm situation where there is a trust at the start. Therefore in the two situations 
+referred to in paras 177-178 above, if unencumbered title passes to the defendant, the 
+analogous application of the law that would apply in the paradigm situation requires 
+that there can be no liability for knowing receipt. 
+182. When pressed as to the principled or conceptual basis for the drawing of the 
+analogy he was relying on, Mr Green submitted that, for the limited purposes of 
+equitable relief, the director (or other fiduciary) should be regarded, at the point of 
+committing the breach of fiduciary duty in relation to the assets, as a constructive 
+trustee of the assets. It would then follow that, immediately prior to the receipt by the 
+defendant, the claimant would have an equitable proprietary interest but one that 
+existed under a constructive, rather than an express, trust. 
+183. Certainly some past cases have not seen any problem in simply treating the 
+director/company situation as if there were a trust prior to, or at the time of, the breach 
+of fiduciary duty comprising the transfer of the asset. For example, in In re Lands 
+Allotment Co [1894] 1 Ch 616, in the context of deciding whether statutory limitation 
+periods applied to directors who had misapplied the company’s assets, Lindley LJ 
+said, at p 631:
+Page 58
+
+“Although directors are not properly speaking trustees, yet 
+they have always been considered and treated as trustees of 
+money which comes to their hands or which is actually 
+under their control…”
+And Kay LJ said this at pp 638-639:
+“[Directors] are only trustees qua the particular property 
+which is put into their hands or under their control, and 
+which they have applied in a manner which is beyond the 
+powers of the company. I conceive that qua such fund they 
+are constructive trustees, or trustees by implication of 
+law…”
+184. Similarly, in Belmont Finance Corpn v Williams Furniture Ltd (No 2) [1980] 1 
+All ER 393, 405, Buckley LJ said the following:
+“A limited company is of course not a trustee of its own 
+funds: it is their beneficial owner; but in consequence of the 
+fiduciary character of their duties the directors of a limited 
+company are treated as if they were trustees of those funds 
+of the company which are in their hands or under their 
+control, and if they misapply them they commit a breach of 
+trust (Re Lands Allotment Co, per Lindley and Kay LJJ). So, 
+if the directors of a company in breach of their fiduciary 
+duties misapply the funds of their company so that they 
+come into the hands of some stranger to the trust who 
+receives them with knowledge (actual or constructive) of the 
+breach, he cannot conscientiously retain those funds against 
+the company unless he has some better equity.”
+185. Mr Green submitted, and I agree, that “unless he has some better equity” would 
+precisely cover the transfer of unencumbered title to the stranger whether by 
+registration, as in our case, or because the recipient (or someone from whom the 
+recipient acquired the asset) is a bona fide purchaser of the legal title for value without 
+notice. The same result of denying a claim for knowing receipt would therefore be 
+reached in the company situation as where there had been a true trust from the start. 
+186. Again in Ultraframe (UK) Ltd v Fielding [2005] EWHC 1638 (Ch) at para 
+1487, Lewison J said:
+Page 59
+
+“Although a company is the legal and beneficial owner of its 
+own assets, there is no difficulty in classifying property 
+belonging to a company as trust property for the purpose of 
+knowing receipt, where the company's property has been 
+alienated by its directors in breach of their fiduciary duty.”
+187.  There are also discussions along similar lines to those in the above cases in, for 
+example, Selangor United Rubber Estates Ltd v Cradock (No 3) [1968] 1 WLR 1555, 
+1575-1577 (

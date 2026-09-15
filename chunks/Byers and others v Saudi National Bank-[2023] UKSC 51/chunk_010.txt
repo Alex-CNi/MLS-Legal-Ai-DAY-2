@@ -1,0 +1,134 @@
+ continuing equitable 
+interest subsisted on the alleged facts, because no event was identified by which it 
+could have been overreached or overridden. 
+93. The appellants endeavoured in their written case to extract from the Williams 
+case an analysis of the constructive trust arising from knowing receipt as not a “true 
+trust” and therefore as not needing to be based upon any continuing equitable interest 
+of the claimant in the subject property. But the definition of “true trust” for the 
+purposes of the Limitation Act 1980 was not based upon whether there was a division 
+between legal title and beneficial interest. Rather it was based upon the difference 
+between a trust deliberately undertaken, whether by agreement, common intention or 
+by someone de facto assuming the role as a trustee de son tort on the one hand, and 
+constructive trusteeship which the law imposes on strangers by reason of their 
+participation (by dishonest assistance or knowing receipt) in a breach of trust, but 
+Page 30
+
+without intending thereby to assume trustee-like responsibilities: see eg per Lord 
+Sumption at para 9. The passage cited above from Lord Sumption’s judgment in 
+Angove’s v Bailey is wholly incompatible with the appellants’ attempt to interpret the 
+Williams case as implying that a knowing receipt trust does not depend upon the 
+claimant’s retention of an equitable beneficial interest in the subject property. In truth 
+Williams says nothing about that question at all.
+94. The respondent placed some reliance on dicta in Akers v Samba Financial 
+Group [2017] AC 424, when this litigation first reached this court. At that stage 
+knowing receipt had not been pleaded, and it had yet to be decided whether the law 
+applicable to the transfer of the Disputed Securities to Samba had the effect of 
+overriding SICL’s beneficial interest. Rather, the claimants sought to invalidate the 
+transfer of the Disputed Securities to Samba as a disposition of SICL’s property 
+contrary to section 127 of the Insolvency Act 1986. This court held that the transfer 
+involved no disposition of the company’s property within the meaning of section 127. 
+This was because, on the transfer of legal title to the Disputed Securities to Samba, 
+SICL’s equitable beneficial interest was either preserved or overridden. In neither case 
+did that involve a disposition of SICL’s interest.
+95. Mr Green pointed to seven dicta in Akers v Samba which he submitted showed 
+that the overriding of a beneficial interest by the law applicable to the transfer of the 
+legal title was treated by this court as effective to bar all equitable claims by the 
+beneficiary against the recipient thereafter, apart from dishonest assistance. The 
+relevant passages are at paras 20, 22, 28, 42, 48, 51 and 54. They involve an uncritical 
+acceptance that Macmillan v Bishopsgate decided that point, an approval of Lightning 
+v Lightning and a general endorsement of the proposition which Mr Green seeks to 
+derive from them. But it appears from para 20 that this proposition was not at that 
+stage challenged by the appellants. They had yet to plead knowing receipt, and the 
+battle as to the effect of the applicable law was yet to be fought. Nor is there 
+(unsurprisingly) any in-depth analysis of the basis of a knowing receipt claim. No 
+equitable claim was being made. It follows that these dicta are of limited weight in the 
+resolution of the issue now before this court, after SICL’s amendment to plead a claim 
+in knowing receipt against Samba.
+96. That concludes my review of the main relevant authorities. Many others were 
+cited, but none surmounted that threshold of relevance which calls for them to be 
+addressed in this already long judgment. Taken as a whole I consider that they are 
+generally supportive, although not decisive, of the issue before this court in favour of 
+the respondent. That is how they were analysed by the courts below, and I consider 
+that they were right to do so. 
+Page 31
+
+Conclusion
+97. The personal liability of a recipient of trust property in knowing receipt, who 
+has no pre-existing relationship with the claimant capable of giving rise to an equity 
+between them, does depend upon the claimant having a continuing equitable interest 
+in the property when it reaches the hands of the defendant. If it has been overreached 
+or overridden (including by the foreign law applicable to the transfer to the 
+defendant), then there is no equity which the claimant may assert against the 
+defendant, and the claim in knowing receipt must fail.
+98. I would therefore dismiss the appeal.
+LORD BURROWS: 
+1. Introduction
+99. The law on “knowing receipt” has perplexed judges and academics alike for 
+several decades. In this case, we are required to examine some important aspects of 
+that law in the context of a paradigm situation where, at the start of the story, there is a 
+trust. The central issue can be expressed as follows. If a trust asset has been 
+transferred to a defendant in breach of trust, and the transfer confers unencumbered 
+legal title to the asset on the defendant, can the defendant be held liable to the 
+claimant, the beneficiary under the trust, for knowing receipt? Put another way, is it an 
+essential element of knowing receipt, where there is a transfer to a defendant of an 
+asset in breach of trust, that the claimant, the beneficiary under the trust, has a 
+continuing equitable proprietary interest in the asset received by the defendant? 
+100. It is helpful to clarify at the outset that it would not be appropriate in this 
+judgment to try to deal with all aspects of the law on knowing receipt. In particular, 
+there are two important matters that have not been in issue on this appeal. 
+101. First, the parties have agreed that, whatever level of knowledge a defendant is 
+required to have for knowing receipt, it is satisfied in this case. In Bank of Credit and 
+Commerce International (Overseas) Ltd v Akindele [2001] Ch 437 (“BCCI v 
+Akindele”), the Court of Appeal (Nourse LJ, with whom Ward and Sedley LJJ agreed) 
+adopted a test of whether it was unconscionable for the defendant to receive or retain 
+the asset in question. With respect, and as many commentators have emphasised, that 
+terminology of “unconscionability” has unhelpfully obfuscated the answer to the 
+important question of whether the required knowledge for knowing receipt extends 
+beyond actual knowledge to include constructive knowledge. That question is one of 
+law to be decided once and for all and the answer to it does not vary depending on the 
+Page 32
+
+facts. But resolution of that question is not now before us and we have heard no 
+submissions on it. 
+102. Secondly, as Jonathan Crow KC, counsel for the appellants, made clear in 
+response to a written question from the court prior to the start of the hearing, the 
+appellants have not sought in any way to base their claim on the law of unjust 
+enrichment. That was not how their claim was pleaded and unjust enrichment has not 
+been relied on in their submissions. The appellants are therefore not arguing that 
+knowing receipt can be rationalised, in at least some situations, on the basis of unjust 
+enrichment; nor are they arguing that they have a claim in unjust enrichment that sits 
+alongside the law on knowing receipt. Although I shall briefly return to unjust 
+enrichment in the context of tracing and at the end of this judgment, the relevance, if 
+any, of unjust enrichment to knowing receipt is not a matter before us. 
+103. I should further make clear that, throughout this judgment, I shall be using the 
+orthodox language of an equitable “proprietary” right or interest as arising under a 
+trust. The parties’ submissions were framed using that orthodox language and it would 
+be difficult to engage with those submissions by adopting different language. I 
+recognise that there has long been a debate as to the nature of a trust and whether it is 
+misleading to characterise the beneficiary under a trust as having an equitable 
+proprietary right or interest. It might therefore be said by some that the central issue in 
+this case should be recast in different language because the concept of an equitable 
+proprietary right or interest is flawed. This debate (see, for example, FW Maitland, 
+Equity: A Course of Lectures (1909) Lecture IX)) has been revived by the work of 
+Ben McFarlane and Robert Stevens through their “right against a right” analysis of 
+what orthodoxy calls an equitable proprietary right or interest: see Ben McFarlane and 
+Robert Stevens, “The Nature of Equitable Property” (2010) 4 J Eq 1. I have also found 
+helpful on the debate as to the nature of equitable proprietary rights, Richard Nolan, 
+“Equitable Property” (2006) 122 LQR 232; and Eleni Zaccaria, “The Nature of the 
+Beneficiary’s Right under a Trust” (2019) 135 LQR 460. It would be inappropriate in 
+this judgment to add my views to that debate. Suffice it to say that, as a practical 
+matter, I see no real difficulties with continuing to use the orthodox language of an 
+equitable proprietary right or interest as arising under a trust. Even if there is an 
+element of metaphor being employed, I do not regard that as an impediment to the 
+correct application or understanding of the law. 
+104. There has been a deluge of academic (or extra-judicial) writing on knowing 
+receipt in recent times. I have found the following articles or chapters particularly 
+helpful: Lord Nicholls, “Knowing Receipt: The Need for a New Landmark” in 
+William Cornish, Richard Nolan, Janet O’Sullivan, Graham Virgo (eds), Restitution: 
+Past Present and Future (1998) chapter 15; Lionel Smith, “W(h)ither knowing 
+receipt” (1998) 114 LQR 394; Peter Birks, “Receipt” in Peter Birks and Arianna 
+Pretto (eds), Breach of Trust (2002) chapter 7; Charles Mitchell and Stephen 
+Watterson, “Remedies for Knowing Receipt” and Matthew Conaglen and Amy 
+Page 33
+
+Goymour, “Knowing Receipt and Registered Land” in Charles Mitchell (

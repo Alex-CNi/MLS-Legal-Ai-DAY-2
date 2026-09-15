@@ -1,0 +1,139 @@
+thew Conaglen and Amy 
+Page 33
+
+Goymour, “Knowing Receipt and Registered Land” in Charles Mitchell (ed), 
+Constructive and Resulting Trusts (2010) chapters 4 and 5; Robert Chambers, “The 
+End of Knowing Receipt” (2016) 2 Canadian Journal of Comparative and 
+Contemporary Law 1; and William Swadling, “The Nature of Knowing Receipt” in 
+Paul Davies and James Penner (eds), Equity, Trusts and Commerce (2017) chapter 13. 
+2. The factual and procedural background
+105. The appellants (who were the claimants at first instance) are Saad Investments 
+Co Ltd ("SICL"), a company registered in the Cayman Islands, and its joint 
+liquidators, Mark Byers and Hugh Dickson ("the liquidators"). The Grand Court of the 
+Cayman Islands made a winding-up order against SICL on 18 September 2009. The 
+respondent is the Saudi National Bank ("SNB"), a Saudi Arabian bank, which is the 
+successor in title to the assets and liabilities of another Saudi Arabian bank, Samba 
+Financial Group ("Samba") (which was the defendant at first instance), pursuant to a 
+transfer on 1 April 2021.
+106. By a number of transactions between 2002 and 2008, a Mr Al-Sanea came to 
+hold shares in five Saudi Arabian companies on express trusts for SICL. Those trusts 
+were governed by Cayman Islands law and it is not in dispute that that law is 
+materially the same as English law. On or about 16 September 2009, Mr Al-Sanea 
+transferred the shares (“the September transfer”), in breach of trust, to Samba in order 
+to discharge personal debts owed by Mr Al-Sanea to Samba. As I understand it, 
+Samba still had those shares when these proceedings were commenced. At the time of 
+Samba’s receipt of the shares, Samba knew that the shares were held on trust for SICL 
+by Mr Al-Sanea. Moreover, in line with a judgment of Fancourt J, dated 8 April 2020 
+(Byers v Samba Financial Group [2020] EWHC 853 (Ch)), it was deemed to have 
+been established (see para 109 below) that a reasonable bank in Samba's position 
+would have appreciated (alternatively would or ought to have made inquiries or 
+sought advice which would have revealed the probability) that the September transfer 
+was a breach of trust; and/or Samba recklessly failed to make such inquiries about the 
+September transfer as an honest and reasonable bank would have made. The parties 
+are agreed that, for the purposes of this appeal, the recipient’s level of knowledge was 
+such as to satisfy whatever level of knowledge is required to make a defendant liable 
+for knowing receipt (see para 101 above). 
+107. The governing law of the September transfer was Saudi Arabian law, the lex 
+situs. It is not in dispute that Saudi Arabian law does not recognise, as such, the 
+concept of a trust as involving a distinction between legal and equitable proprietary 
+interests (or, as one might otherwise refer to it, a distinction between legal and 
+beneficial ownership). As a matter of Saudi Arabian law, the effect of the September 
+transfer, registering the shares in Samba's name, was that SICL had no continuing 
+proprietary interest in the shares following the transfer. That is, SICL’s equitable 
+Page 34
+
+proprietary interest under the trust (recognised by applying English law) was 
+overridden, or extinguished, by the registration transferring the shares to Samba 
+(applying Saudi Arabian law as the governing law of the transfer of the shares). 
+108. The liquidators first issued proceedings against Samba on 14 August 2013, 
+under section 127 of the Insolvency Act 1986 (rendering void, unless the court 
+otherwise orders, "any disposition of the company's property" made after the 
+commencement of its winding up). That claim was dismissed when the Supreme 
+Court in Akers v Samba Financial Group [2017] UKSC 6, [2017] AC 424 (“Akers v 
+Samba”) decided that, for the purposes of section 127, there was no "disposition" of 
+any rights of SICL in relation to the shares by virtue of their transfer to Samba. The 
+essential reasoning was that SICL’s rights in respect of the shares held by Mr Al-
+Sanea on trust for SICL (in particular, SICL’s equitable proprietary rights) had not 
+been disposed of by the transfer of the legal title in the shares to Samba. True it was 
+that, under Saudi Arabian law, the registration of those shares may have extinguished 
+SICL’s rights under the trust (just as would have been the case in English law, in the 
+sense that SICL’s equitable rights would have been overridden, had Samba been a 
+bona fide purchaser of the legal title for value without notice). But the extinguishing 
+of SICL’s equitable rights was a separate matter from whether there had been a 
+disposition of those rights. The Supreme Court decided that the extinguishing of 
+SICL’s rights under the trust did not constitute a disposition of those rights. 
+109. On 31 May 2017, the appellants issued these proceedings alleging knowing 
+receipt. The knowing receipt relied on was the September transfer of the shares into 
+Samba's name. The matters dealt with at the trial in October 2020, before Fancourt J, 
+were of limited scope. This was because Samba had failed to comply with an order for 
+disclosure and, as a result, was debarred from defending the claim otherwise than on 
+specific grounds (which Fancourt J had decided, in April 2020, in Byers v Samba 
+Financial Group [2020] EWHC 853 (Ch), could be tried fairly without the missing 
+disclosure). The effect of Fancourt J's April 2020 decision was that all factual 
+questions other than the content of Saudi Arabian law and issues as to the valuation of 
+the shares were deemed to have been resolved in accordance with the appellants' 
+pleaded case. That was the reason why the facts regarding Samba's knowledge at the 
+time of its receipt of the shares were deemed to be as set out in para 106 above.
+110. In the circumstances, there were three substantive issues that fell to be 
+determined at the trial. First, whether the effect of Saudi Arabian law, as the 
+governing law of the September transfer, was to extinguish SICL's rights in the shares 
+even if Samba had knowledge of SICL's interest. This was referred to as “the Saudi 
+Arabian law issue”. Secondly, whether the claim for knowing receipt, pleaded by the 
+appellants as governed by Cayman Islands or English law, must fail if SICL's interest 
+was so extinguished. This was “the law of knowing receipt issue”. Thirdly, what the 
+value of the shares was at the date of the September transfer and at the date of 
+judgment: in reality, this was only a dispute about whether a “block discount” should 
+Page 35
+
+be applied to the quoted prices of the shares on the Saudi Arabian stock exchange on 
+those days. This was “the valuation issue”. 
+111. Fancourt J, [2021] EWHC 60 (Ch), determined the first two issues, the Saudi 
+Arabian law issue and the law of knowing receipt issue, in favour of Samba and, 
+accordingly, dismissed the claim. In relation to the valuation issue, he concluded that, 
+if it had been necessary to value the shares, it would have been appropriate to apply a 
+“block discount” to reflect the market value achievable on a sale of such a large block 
+of shares.
+112. The appellants appealed. The appeal was dismissed by the Court of Appeal 
+(Newey, Asplin and Popplewell LJJ) [2022] EWCA Civ 43, [2022] 4 WLR 22. The 
+Court of Appeal agreed with Fancourt J on the Saudi Arabian law issue and the law of 
+knowing receipt issue. It did not decide the valuation issue because it considered it 
+unnecessary to do so given its conclusions on the first two issues. 
+113. The appellants sought, and obtained, from the Supreme Court permission to 
+appeal solely in relation to the law of knowing receipt issue (which I shall hereinafter 
+refer to as the “knowing receipt issue”). 
+3. The reasoning and decisions of the courts below on the knowing receipt issue
+(1) Fancourt J
+114. Fancourt J’s reasoning on the knowing receipt issue can be summarised as 
+follows:
+(i) He explained, at para 38, that the question at issue was: 
+“whether, for a claim in knowing receipt to succeed, it is 
+necessary for there to be an ‘undestroyed proprietary base’ 
+to the claim, that is to say that the equitable interest of the 
+claimant in the property is not destroyed or overridden at the 
+moment of receipt, but the recipient thereafter - at least for a 
+time, however short - holds property that belongs in equity 
+to the claimant.” 
+(ii) Fancourt J explained that that question cannot normally arise under the 
+English common law (which, in this sense, includes equity). This is because a 
+purchase of the legal title by a bona fide purchaser for value without notice is 
+Page 36
+
+one of the very few ways (another is registration of title to land under the Land 
+Registration Act 2002) by which an equitable proprietary interest is overridden 
+or extinguished in English law; and by definition the bona fide purchaser of the 
+legal title for value without notice (so-called “equity’s darling”) is not a 
+knowing recipient. But that question here arose because, under the applicable 
+foreign law (Saudi Arabian law) governing the transfer of the shares, Samba’s 
+legal title extinguished SICL’s equitable proprietary interest. 
+(iii) Looking at the case law, it was Fancourt J’s view that Millett J in 
+Macmillan Inc v Bishopsgate Investment Trust plc (No 3) [1995] 1 WLR 978 
+(“Macmillan”) (upheld by the Court of Appeal [1996] 1 WLR 387) had 
+decided that a knowing receipt claim rests on a continuing equitable proprietary 
+interest. That decision was supported by obiter dicta of Peter Gibson LJ in 
+Lightning v Lightning Electrical Contractors Ltd (1998) 23 TLI 35 
+(“Lightning”) and of Nugee J in Courtwood Holdings SA v Woodley Properties 
+Ltd [2018] EWHC 2163 (Ch) (“Courtwood Holdings”). 
+(iv) Section 29 of the Land Registration Act 2002, by which a purchaser for 
+valuable consideration of registered land takes free of any earlier unprotected 
+interests, unless the beneficiaries were in actual occupation at the time of the 
+dispos

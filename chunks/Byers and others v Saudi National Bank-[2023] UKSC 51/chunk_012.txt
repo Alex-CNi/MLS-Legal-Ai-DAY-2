@@ -1,0 +1,154 @@
+nprotected 
+interests, unless the beneficiaries were in actual occupation at the time of the 
+disposition, did not support the argument for the claimants that there is no need 
+for a continuing equitable proprietary interest. Although there were conflicting 
+views on the effect on a claim for knowing receipt of those statutory 
+provisions, Fancourt J thought that the better view, as put forward by Matthew 
+Conaglen and Amy Goymour, “Knowing Receipt and Registered Land” 
+(referred to in para 104 above), is that those provisions prevent not only a 
+proprietary claim against the purchaser but also a personal claim for knowing 
+receipt against the purchaser. 
+(v) To summarise, quoting Fancourt J’s words at paras 111-117:
+“In my judgment, the issue of principle – whether a knowing 
+receipt claim that does not allege [dishonest assistance] 
+requires the claimant to have a continuing proprietary base 
+for it – is decided (in this court at least) by Millett J in the 
+Macmillan v Bishopsgate case, which decision was 
+approved by the Court of Appeal in that case. The claimant 
+must be able to assert that the defendant received his 
+property and was obliged to deal with it as if he were a 
+trustee of it… If the recipient was from the outset entitled to 
+deal with the property as his own, the claim cannot succeed. 
+No other case has decided this question as part of its ratio, 
+but the dicta of Peter Gibson LJ in the Lightning case and of 
+Page 37
+
+Nugee J in the Courtwood Holdings case encapsulate the 
+principle: the transfer cannot be one that gives the transferee 
+good title in priority to the beneficiary’s interest.… [A] 
+claim in knowing receipt, where dishonest assistance is not 
+alleged, will fail if, at the moment of receipt, the 
+beneficiary’s equitable proprietary interest is destroyed or 
+overridden so that the recipient holds the property as 
+beneficial owner of it…. It is of the essence of [a knowing 
+receipt claim] that the beneficiary asserts that the recipient 
+has, or had, the beneficiary’s property. That is so whether 
+the claim is formulated as a proprietary or personal cause of 
+action. In my judgment, a knowing recipient must have held 
+trust property, not property to which from the moment of 
+receipt he had good title. …I therefore decide the Law of 
+Knowing Receipt Issue in favour of Samba and determine 
+that, absent a continuing proprietary interest in the [shares] 
+at the time of Samba’s registration, the claim in knowing 
+receipt as pleaded will fail.”
+(2) The Court of Appeal
+115. The judgment of the Court of Appeal was given by Newey LJ on behalf of 
+himself, Asplin LJ and Popplewell LJ. In respect of the knowing receipt issue, the 
+court’s reasoning, upholding Fancourt J, can be summarised as follows:
+(i) A knowing receipt claim “is most obviously likely to be useful where 
+the defendant no longer has the property. If the defendant yet retains the 
+property, the claimant may be able to recover it by asserting proprietary rights 
+rather than by making a personal claim for knowing receipt.” (para 23)
+(ii) Hoffmann LJ in El Ajou v Dollar Land Holdings Ltd [1994] 2 All ER 
+685 (“El Ajou”), at 700, set out that, to establish a claim for knowing receipt, a 
+claimant must show: 
+“first, a disposal of his assets in breach of fiduciary duty; 
+secondly, the beneficial receipt by the defendant of assets 
+which are traceable as representing the assets of the 
+plaintiff; and thirdly, knowledge on the part of the defendant 
+that the assets he received are traceable to a breach of 
+fiduciary duty.” 
+Page 38
+
+But the Court of Appeal rejected counsel for the appellants’ submission that 
+Fancourt J had wrongly introduced into the law on knowing receipt, set out by 
+Hoffmann LJ in El Ajou, a requirement previously unknown, namely a 
+continuing equitable proprietary interest. 
+(iii) Millett J’s decision in Macmillan directly supported Fancourt J’s 
+reasoning. In that case, a bona fide purchase of the legal title for value without 
+notice gave the defendants a good defence to any claim by Macmillan, 
+including one for knowing receipt, not because it would mean that their 
+retention of shares was not unconscionable but because the defendants would 
+have taken free of Macmillan’s interest. According to Millett J, a continuing 
+proprietary interest was crucial. 
+(iv) That a continuing proprietary interest is a prerequisite of a knowing 
+receipt claim was also indicated by obiter dicta of Peter Gibson LJ in Lightning 
+and of Nugee J in Courtwood Holdings. The Court of Appeal thought this was 
+also supported by Lord Mance’s leading judgment in Akers v Samba, at para 20 
+(this is set out at para 122 below). 
+(v) The description of the remedies for knowing receipt in the influential 
+chapter by Charles Mitchell and Stephen Watterson, “Remedies for Knowing 
+Receipt” (see para 104 above), which included reference to the knowing 
+recipient having a custodial duty and a duty to restore the property, was viewed 
+by the Court of Appeal as resting on a key premise that the beneficiaries still 
+had an equitable interest in the relevant property at a time when the defendant 
+had knowledge of the breach of trust. In Newey LJ’s words: “it is inapt to talk 
+of a custodial duty, or a duty to restore, if the recipient acquires full and 
+unencumbered title as a result of the transaction by which he receives the 
+property.” (para 49) 
+(vi) It made sense for a knowing recipient to have a custodial duty, including 
+a duty to restore the property, where the property was subject to an interest 
+having priority to the recipient’s. “It is much more difficult to see why a 
+recipient should be bound to restore property or otherwise to have ‘custodial’ 
+responsibilities in respect of it if he has an unimpeachable title to it.” (para 75) 
+(vii) No help could be gleaned from section 29 of the Land Registration Act 
+2002 because its effect turned on the particular terms of the statutory regime. 
+The Court of Appeal noted the different views of Matthew Conaglen and Amy 
+Goymour, on the one hand, and of the Law Commission, on the other hand, as 
+to the impact of those provisions on a claim for knowing receipt but thought it 
+unnecessary to make any comment on them. 
+Page 39
+
+(viii) Overall, Fancourt J’s reasoning and conclusion had the support of what 
+had been decided or assumed in a consistent line of case law and was correct. 
+At para 79, Newey LJ concluded:
+“In short, a continuing proprietary interest in the relevant 
+property is required for a knowing receipt claim to be 
+possible. A defendant cannot be liable for knowing receipt if 
+he took the property free of any interest of the claimant.” 
+4. The case law 
+116. It is clear, and was not in dispute between the parties, that, in respect of the 
+knowing receipt issue, there is no authority directly on the point at this level of court. 
+In any event, the reliance by Fancourt J and the Court of Appeal on some earlier cases 
+as deciding or supporting the decision they reached is, in my view, not entirely free 
+from difficulty. Ultimately, therefore, the knowing receipt issue has to be answered by 
+an analysis of principle.
+117. Nevertheless, it is helpful initially to look at the three main cases relied on by 
+the lower courts, and which were at the forefront of the submissions on the cases made 
+in this court by Brian Green KC, counsel for the respondent. These are, most 
+importantly, Millett J’s decision in Macmillan, which Fancourt J interpreted as having 
+decided the issue, but also obiter dicta in Lightning and Courtwood Holdings. I shall 
+then turn to the three main cases relied on by Mr Crow: Hoffmann LJ’s statement of 
+principle in El Ajou which formed the basis of Mr Crow’s submissions; the Supreme 
+Court’s decision in Williams v Central Bank of Nigeria [2014] UKSC 10, [2014] AC 
+1189 (“Williams”), on which Mr Crow also placed great emphasis; and obiter dicta of 
+Henderson J in Haque v Raja [2016] EWHC 1950 (Ch) (“Haque”) which, on their 
+face, support the appellants’ case.
+(1) The three main cases relied on by the lower courts and by counsel for the 
+respondent
+(a) Macmillan 
+118. An action was commenced by Macmillan Inc (a wholly owned subsidiary of an 
+English company, Maxwell Communications Corporation, previously controlled by 
+Robert Maxwell) to recover 10.6m shares (representing a controlling interest in a New 
+York company) from the defendants who were various parties into whose hands the 
+shares had come. The shares had been held by Bishopsgate Investment Trust Plc as 
+bare trustee for Macmillan Inc. Since the action had been commenced, 3.8m of the 
+Page 40
+
+shares had been recovered and the return of a further 1m was being negotiated. By the 
+time of the trial, the action was therefore concerned with the remaining 5.8m shares. 
+Those shares had been sold (during the trial with the cooperation of all parties) for a 
+sum in excess of $137m. It was held by Millett J that, applying New York law (as the 
+place of the transaction), the defendants were able to rely on the bona fide purchaser 
+for value without notice priority rule to defeat the claims.
+119. Two factors make Millett J’s judgment in Macmillan difficult to analyse for our 
+purposes. The first is that he expressly categorised all the claims as “restitutionary” 
+(pp 998 and 990) but it is not clear what he meant by this (not least because he 
+accepted that one of the claims was a personal claim for compensation for loss); and it 
+is also unclear whether his reference to restitution meant that he regarded unjust 
+enrichment as underpinning all (or at least some of) the claims being made. The 
+second complicating factor is that the statement of claim (see the reference to the 
+statement of claim in the summary given prior to the judgment at [1995] 1 WLR 978, 
+981) did not refer expressly to knowing receipt or to a liability to account as a 
+constructive trustee which would have been the traditional ways of pleading a claim 
+for

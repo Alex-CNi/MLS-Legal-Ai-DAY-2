@@ -1,0 +1,150 @@
+count as a 
+constructive trustee which would have been the traditional ways of pleading a claim 
+for knowing receipt. 
+120. It is clear that what was principally being claimed and focussed on was the 
+proprietary claim for the return of the shares or, given that the shares had been sold, to 
+the proceeds of sale (which were presumably being treated as the traceable substitute 
+of the shares). But there was an additional claim, set out in the statement of claim, for 
+“compensation … for breach of constructive trust”. It would appear that that was 
+referring to a personal claim for knowing receipt although it is conceivable that it was 
+referring to a claim for dishonest assistance (for the law on dishonest assistance, see 
+below para 147). If it is correct that a claim for knowing receipt was being made, the 
+references by Millett J to the need for an equitable proprietary base were being applied 
+not only to the proprietary claim but also to the personal claim for knowing receipt; 
+and his decision that the claims failed because the defendants were bona fide 
+purchasers for value without notice, or had taken a transfer from someone who was, 
+applied to both the proprietary claim and the claim for knowing receipt. 
+121. There was an appeal, [1996] 1 WLR 387, purely on the conflict of laws point 
+and there was no determination of the precise claim being made. It was accepted that 
+the issue in question was about the title to the shares. Millett J’s decision on the 
+conflict of laws issue, that New York not English law governed the application of the 
+bona fide purchase defence and hence the title to the shares, was upheld but was 
+reached by a different route ie the Court of Appeal applied the lex situs of the shares 
+whereas Millett J had applied the law of the place of the transaction. 
+122. It is significant that Lord Mance, giving the leading judgment in Akers v 
+Samba, did appear to interpret Millett J’s judgment, as upheld by the Court of Appeal, 
+Page 41
+
+as authority for there needing to be a continuing equitable proprietary interest for a 
+knowing receipt claim (although that was not the issue before the Supreme Court: see 
+para 108 above). Hence Lord Mance said at para 20:
+“It is established by Court of Appeal authority (and was not 
+challenged on this appeal) that, where under the lex situs of 
+the relevant trust property the effect of a transfer of the 
+property by the trustee to a third party is to override any 
+equitable interest which would otherwise subsist, that effect 
+should be recognised as giving the transferee a defence to 
+any claim by the beneficiary, whether proprietary or simply 
+restitutionary: Macmillan Inc v Bishopsgate Investment 
+Trust plc (No 3) [1996] 1 WLR 387. In that case, bona fide 
+chargees for value of shares situated in New York and held 
+on trust for Macmillan were thus able, by application of 
+New York law, to take the shares free of Macmillan’s prior 
+equitable interest of which the chargees had had no notice.”
+123. Again some clarity was lost because there was no explicit reference to knowing 
+receipt. But I tend to agree with the submission of Mr Green that by the phrase, 
+“simply restitutionary”, Lord Mance was referring to a personal claim for knowing 
+receipt. 
+124. In summary, while not entirely clear, the decision of Millett J in Macmillan, 
+which was upheld by the Court of Appeal but without further analysis of the personal 
+claim, does appear to be an authority in favour of the respondent’s submissions. 
+(b) Lightning
+125. Lightning was concerned with the “in personam” jurisdiction of the English 
+court to decide an equitable claim in respect of an alleged resulting trust of land in 
+Scotland. The lower courts, and Mr Green in his submissions, sought to place some 
+weight on the following obiter dicta of Peter Gibson LJ, with whom Henry LJ agreed, 
+at p 38: 
+“if the equity which is asserted does not exist between the 
+parties to the English litigation, for example where there has 
+been a transfer of the property to a third party with notice of 
+an equity but by the lex situs governing the transfer, the 
+transfer extinguished the plaintiff’s equity, the English court 
+could not then give relief against the third party even though 
+he is within the jurisdiction.”
+Page 42
+
+126. In my view, the relevance of those obiter dicta to the issue we have to decide is 
+tangential. In particular, no question was raised in that case as to knowing receipt and 
+the obiter dicta may be interpreted as applying purely to the proprietary claim in issue 
+in the case and not to a personal claim for knowing receipt. 
+(c) Courtwood Holdings
+127. In Courtwood Holdings, the claimant alleged that several defendants received 
+legal title to a farm, or the proceeds of its sale and other profits, knowing of breaches 
+of fiduciary duty by the agent of the previous owner. That claim for knowing receipt 
+failed because the sale of the farm to the first defendant was not a direct result of the 
+alleged breach of fiduciary duty, as was required by the decision of the Court of 
+Appeal in Brown v Bennett [1999] 1 BCLC 649. In what were, therefore, obiter dicta, 
+Nugee J explored the basis of a claim in knowing receipt. Contrasting the law on 
+dishonest assistance, he said at para 201:
+“The foundation of the claim in knowing receipt seems to 
+me quite different. It is that a person has got their hands on 
+property which belongs to somebody else… [In other 
+words] the foundation …is that the assets do not belong in 
+equity to the recipient; and the foundation of the fact that the 
+assets do not belong to the recipient in equity is that the 
+transfer by which the assets were transferred is a flawed 
+transfer. It may be a voidable transfer, it may indeed, for 
+example if a company’s assets are disposed of in a way that 
+is ultra vires, be an entirely void transfer. But what gives the 
+equity to the claimants is not the knowledge of the 
+defendants by itself, or antecedent breaches of duty, but the 
+fact that the transaction which is impugned is not one which 
+transfers a good title to the recipient. It is in those 
+circumstances that the recipient, unless a bona fide 
+purchaser for value without notice, is liable, if he still has 
+the property, to give it back, and can be made liable to 
+account as constructive trustee, whether he still has the 
+property or not, if he received it in circumstances that make 
+his receipt unconscionable.”
+128. Nugee J then referred to Lewin on Trusts, 19th ed (2015), at para 42-044 (the 
+same passage appears in the current 20th ed (2020) at para 42-044):
+“A breach of trust is usually essential because it is the basis 
+on which the beneficial title is retained by the beneficiaries 
+and does not pass to the recipient. If the beneficial title does 
+Page 43
+
+pass to the recipient there is no occasion for the imposition 
+of liability in equity on the recipient under the knowing 
+receipt head of constructive trusteeship.”
+129. Plainly that passage from Nugee J’s judgment, backed up by the citation from 
+Lewin on Trusts, firmly supports the case for the respondent. But they were obiter 
+dicta only. 
+(2) The three main cases relied on by counsel for the appellants 
+(a) Hoffmann LJ’s statement of principle in El Ajou
+130. In para 115(ii) above, I have set out the statement of principle by Hoffmann LJ 
+in El Ajou. That statement, setting out three necessary requirements for a claim in 
+knowing receipt, has been relied on in numerous subsequent cases. Mr Crow, 
+especially in his oral submissions, relied heavily on it. He argued that this was the 
+definitive statement of the requirements for knowing receipt and yet it said nothing 
+about any need for a continuing equitable proprietary interest. Had Hoffmann LJ, and 
+the subsequent courts relying on his statement, thought that that extra element was 
+needed, they would have said so. I reject that submission for three reasons. 
+131. First, it is clear that the statement is not a comprehensive statement of all the 
+law on knowing receipt. For example, it does not mention after-acquired knowledge. 
+Yet it is clear law that a defendant can be held liable for knowing receipt if the 
+defendant still retains the assets at the time that it acquires the relevant knowledge 
+even though that was subsequent to receipt (and assuming that, at the time of receipt, 
+the defendant was not a bona fide purchaser of the legal title for value without notice: 
+see paras 167-171 below).
+132.  Secondly, it is not at all surprising that Hoffmann LJ did not mention the need 
+for a continuing equitable proprietary interest because this can hardly ever arise as a 
+problematic issue in the English common law applying to knowing receipt, as made 
+clear by Fancourt J (see para 114 (ii) above).
+133. Thirdly, the requirement of a continuing equitable proprietary interest is in any 
+case arguably implicit in Hoffmann LJ’s reference to the assets being “traceable as 
+representing the assets of the plaintiff”.
+Page 44
+
+(b) Williams 
+134. In this case, money was held by a solicitor in a client account on trust for the 
+claimant client. In breach of trust, the solicitor released $6,020,190 to the defendant. It 
+was alleged that the defendant was liable for dishonest assistance and/or knowing 
+receipt. The question was whether, under section 21(3) of the Limitation Act 1980, a 
+limitation period of six years applied to those claims or whether they had no limitation 
+period by reason of section 21(1). It was decided that there was a six-year limitation 
+period. 
+135. The essence of the reasoning was that, for the purposes of the Limitation Act 
+1980 section 21, there is a distinction to be drawn between “true trustees” (see Lord 
+Sumption’s judgment at paras 9, 30-31), falling within section 21(1) where there is no 
+limitation period, and knowing recipients (or dishonest assisters) who are not true 
+trustees but are treated, for the purposes of equitable relief, as if they

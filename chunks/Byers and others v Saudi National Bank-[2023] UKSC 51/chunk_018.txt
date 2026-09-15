@@ -1,0 +1,149 @@
+n, for 
+example, Selangor United Rubber Estates Ltd v Cradock (No 3) [1968] 1 WLR 1555, 
+1575-1577 (per Ungoed-Thomas J); in JJ Harrison (Properties) Ltd v Harrison 
+[2001] EWCA Civ 1467, [2002] BCC 729, paras 25-26 (per Chadwick LJ); and in the 
+Australian case of Bell Group Ltd v Westpac Banking Corp (No 9) [2008] WASC 239, 
+(2008) 225 FLR 1, paras 4750 – 4804 (per Owen J).
+188. My conclusion is that Mr Green’s use of analogy is consistent with the 
+willingness of courts in past cases to decide that the relevant assets of the company are 
+subject to a trust, best viewed as a constructive trust, prior to receipt by the defendant. 
+It follows that the fact that there may be no trust at the start of the story (ie no express 
+trust) does not undermine the principled analysis of knowing receipt put forward 
+above. 
+(2) Knowing receipt, directors and companies, and contractual principles
+189. In respect of directors (or other officers) and companies there is an additional 
+problem that merits consideration. It concerns the relationship between contractual 
+principles and knowing receipt. It is highlighted by the case of Criterion Properties 
+plc v Stratford UK Properties LLC [2004] UKHL 28, [2004] 1 WLR 1846 
+(“Criterion”). Although this case did not feature in the submissions at trial of either 
+party, and was not mentioned by the courts below, this court requested, and has been 
+assisted by, post-hearing written submissions on the relevance of the case. I have also 
+been helped by a case-note on Criterion by Robert Stevens, “The Proper Scope of 
+Knowing Receipt” [2004] LMCLQ 421 and by an article by Matthew Conaglen and 
+Richard Nolan, “Contracts and Knowing Receipt: Principles and Application” (2013) 
+129 LQR 359. 
+190. Let us assume that a director has been acting in breach of fiduciary duty to a 
+company in dealings with another party (D); and that a purported but invalid contract 
+has been made and executed with D by the company. There are two main possible 
+analyses of the relevant legal principles (even putting to one side the possibility that 
+legal title in any tangible asset transferred to D has not passed to D so that there is a 
+possible claim by the company for, for example, the tort of conversion). 
+Page 60
+
+191. First, as a matter of contract law, any purported contract between the company 
+and D will be void where the director as agent has not bound the company because the 
+director had neither actual nor apparent authority (taking into account the Companies 
+Act 2006, section 40) to make the contract on behalf of the company. It is also 
+conceivable that in some situations, although for ease of exposition I put these 
+alternatives to one side in the analysis that follows, the contract is, for example, 
+voidable (as where the director has made a misrepresentation to the company of which 
+D had notice) or illegality affects the contract (eg the company may be providing 
+financial assistance for the purchase of its own shares). Where the contract is void, the 
+company may have (common law) restitutionary remedies against D in the law of 
+unjust enrichment (imposing strict liability but subject to a change of position 
+defence) to recover the value of benefits conferred on D under the void contract with 
+the unjust factor being, for example, want of authority or failure of basis. 
+192. Secondly, and alternatively, it would appear that, where the purported contract 
+is void, the company can claim an equitable proprietary remedy to recover the asset 
+transferred to D or a personal remedy for knowing receipt by D of the asset transferred 
+in breach of fiduciary duty. 
+193. On the facts of Criterion, Criterion, through its directors, had entered into a 
+“poison-pill” agreement with a partner company, Oaktree. That agreement required 
+Criterion, in certain events, to buy out Oaktree on favourable terms to Oaktree. The 
+aim of the agreement was to put off a potential takeover of Criterion. Criterion 
+subsequently sought to set aside the agreement which was an executory agreement. 
+The lower courts thought that the correct principles to apply were those of the law on 
+knowing receipt. That is, the directors had acted in breach of fiduciary duty to the 
+company and, depending on its state of knowledge, Oaktree was a knowing recipient. 
+The House of Lords held that that had been a wrong approach. The purported contract 
+here was executory and the sole question was whether that executory contract was 
+valid. That was to be determined by contractual agency principles (and hence turned 
+on whether the directors had actual or apparent authority to bind the company). It had 
+nothing to do with knowing receipt not least because no assets of the company had 
+been transferred to Oaktree. Lord Scott, giving the leading speech, said the following 
+at para 27:
+“My Lords, I must express my respectful disagreement with 
+the approach both of Hart J and of the Court of Appeal to 
+the critical issue in this case. This is neither a case of 
+‘knowing receipt’ nor one of ‘knowing assistance’. The 
+word ‘receipt’ in the expression ‘knowing receipt’ refers to 
+the receipt by one person from another of assets. A person 
+who enters into a binding contract acquires contractual 
+rights that are created by the contract. There may be a 
+‘receipt’ of assets when the contract is completed and the 
+Page 61
+
+question whether there is ‘knowing receipt’ may become a 
+relevant question at that stage. But until then there is simply 
+an executory contract which may or may not be enforceable. 
+The creation by the contract of contractual rights does not 
+constitute a ‘receipt’ of assets in the sense that a ‘knowing 
+receipt’ involves a receipt of assets. The question whether 
+an executory contract is enforceable is quite different from 
+the question whether assets of which there has been a 
+‘knowing receipt’ are recoverable from the recipient. To 
+confuse these two questions is likely to lead, and in the 
+present case has, in my opinion, led, to further confusion. It 
+is fair to say, however, that it appears to me that the courts 
+below dealt with the case on the basis on which it was 
+presented to them by counsel. It was indeed presented to 
+your Lordships as being a case to which the principles of 
+‘knowing receipt’ ought to be applied.”
+It was further held that the issue of the directors’ authority was not one that could be 
+resolved on the appeal before the House of Lords.
+194. All that is relatively straightforward. But, while agreeing with Lord Scott, Lord 
+Nicholls, with whom Lord Walker agreed, went on to launch a more wide-ranging 
+attack on the Court of Appeal’s decision in BCCI v Akindele, which, as we have seen 
+(para 101 above), is the leading case on the modern test of knowing receipt being 
+whether the receipt or retention is “unconscionable”. Lord Nicholls said at paras 3-4:
+“Unfortunately, in the courts below [the] ‘want of authority’ 
+issue was approached on the basis that the outcome turned 
+on whether Oaktree's conduct was unconscionable. This 
+seems to have been the test applied by the Court of Appeal 
+in Bank of Credit and Commerce International (Overseas) 
+Ltd v Akindele [2001] Ch 437 both to questions of ‘want of 
+authority’ and to liability for what traditionally has been 
+labelled ‘knowing receipt’.
+I respectfully consider the Court of Appeal in 
+Akindele's case fell into error on this point. If a company (A) 
+enters into an agreement with B under which B acquires 
+benefits from A, A's ability to recover these benefits from B 
+depends essentially on whether the agreement is binding on 
+A. If the directors of A were acting for an improper purpose 
+when they entered into the agreement, A's ability to have the 
+agreement set aside depends upon the application of familiar 
+Page 62
+
+principles of agency and company law. If, applying these 
+principles, the agreement is found to be valid and is 
+therefore not set aside, questions of ‘knowing receipt’ by B 
+do not arise. So far as B is concerned there can be no 
+question of A's assets having been misapplied. B acquired 
+the assets from A, the legal and beneficial owner of the 
+assets, under a valid agreement made between him and A. If, 
+however, the agreement is set aside, B will be accountable 
+for any benefits he may have received from A under the 
+agreement. A will have a proprietary claim, if B still has the 
+assets. Additionally, and irrespective of whether B still has 
+the assets in question, A will have a personal claim against 
+B for unjust enrichment, subject always to a defence of 
+change of position. B's personal accountability will not be 
+dependent upon proof of fault or ‘unconscionable’ conduct 
+on his part. B's accountability, in this regard, will be ‘strict’.
+Either way, therefore, whether the … agreement is set aside 
+or not, questions of unconscionability do not arise on 
+Criterion's application for summary judgment.”
+195. On the face of it, Lord Nicholls’ speech may be thought to indicate that the 
+leading case of BCCI v Akindele (which concerned an executed contract) and all other 
+cases on directors acting in breach of fiduciary duty to their companies, by entering 
+into contracts with defendants under which the company’s assets have been 
+transferred to the defendants, have been wrongly reasoned in so far as they have 
+applied the law on knowing receipt. 
+196. If Lord Nicholls was going so far, in my respectful view he was going too far. 
+The better view is that in these types of situations, there are various possible claims in 
+line with the analysis set out in paras 191-192 above. For example, it may be decided 
+that, applying contractual agency principles, the contract is void and, in respect of 
+benefits conferred on the defendant by the company, there may then be (common law) 
+restitutionary remedies reversing the defendant’s unjust enrichment at the company’s 
+expense. But alternatively, if the contract is void, the company may choose to bring an 
+eq

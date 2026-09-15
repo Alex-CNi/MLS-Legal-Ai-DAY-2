@@ -10,6 +10,8 @@ st.title("Exercise 2.1")
 # ===== ADDED (1): chunking function =====
 def chunk_text(text, size, overlap):
     """Split text into fixed-size character chunks with overlap."""
+    if overlap >= size:
+        raise ValueError("overlap must be smaller than chunk size")
     step = size - overlap
     return [text[i:i + size] for i in range(0, max(len(text) - overlap, 1), step)]
 # ===== END ADDED (1) =====
@@ -35,7 +37,9 @@ if uploaded_file is not None:
 # 2. Allows the user to chunk the document.
     st.subheader("Chunking")
     size = st.selectbox("Chunk size (characters)", [100, 1000, 10000, 100000], index=2)
-    overlap = st.select_slider("Overlap (characters)", options=[0, 50, 100, 200], value=100)
+    overlap_options = [o for o in [0, 50, 100, 200] if o < size]
+    overlap = st.select_slider("Overlap (characters)", options=overlap_options,
+                               value=min(100, overlap_options[-1]))
 
     if not text.strip():
         st.warning("No text could be extracted (the PDF may be scanned images).")

@@ -1,0 +1,153 @@
+Michaelmas Term
+[2023] UKSC 51
+On appeal from: [2022] EWCA Civ 43
+JUDGMENT
+Byers and others (Appellants) v Saudi National 
+Bank (Respondent)
+before
+Lord Hodge, Deputy President
+Lord Briggs
+Lord Leggatt
+Lord Burrows
+Lord Stephens
+JUDGMENT GIVEN ON
+20 December 2023
+Heard on 12 and 13 July 2023
+
+
+Appellants
+Jonathan Crow KC
+James Knott
+(Instructed by Quinn Emanuel Urquhart & Sullivan UK LLP)
+Respondent
+Brian Green KC
+Alan Roxburgh
+(Instructed by Latham & Watkins (London) LLP)
+
+LORD HODGE (with whom Lord Leggatt and Lord Stephens agree):
+1. I am very grateful to Lord Briggs and Lord Burrows for setting out the facts 
+and for the reasoning by which they conclude that the appeal must be dismissed. They 
+agree that a claim in knowing receipt cannot succeed once the claimant’s proprietary 
+equitable interest in the property in question has been extinguished or overridden. I 
+agree. Lord Briggs and Lord Burrows agree that the case law, although containing 
+pointers in favour of their conclusion, does not provide a definitive answer in this 
+case, and that they must decide the matter as a matter of equitable principle. Again, I 
+agree. Because they have come to this conclusion by slightly different reasoning, it 
+may be useful if I summarise what has been agreed as determining the outcome of the 
+appeal. This is only a summary of agreed matters and the reader will find the 
+reasoning in the judgments of Lord Briggs and Lord Burrows.
+2. First, it is well established that the transfer of trust property by a trustee to a 
+bona fide purchaser for value without notice extinguishes or overrides the proprietary 
+equitable interest of the cestui que trust (the trust beneficiary) and this is so even if the 
+trustee in so doing acts in breach of trust. (Lord Briggs paras 18 & 20, Lord Burrows 
+para 156).
+3. Secondly, if the bona fide purchaser for value without notice later becomes 
+aware that the property was transferred in breach of trust, this does not resuscitate the 
+claimant’s proprietary equitable interest. That interest also is not revived when the 
+original purchaser transfers the property to a further transferee, who, at the time of the 
+transfer, is aware that there has been a breach of trust. On the other hand, if the 
+subsequent transferee were the defaulting trustee, he or she would not be released 
+from the trust obligations but would hold the asset for the beneficiary. (Lord Briggs 
+paras 23-24, Lord Burrows paras 167-171.)
+4. Thirdly, a claim in knowing receipt cannot succeed in the circumstances which 
+I have outlined in paras 2 and 3 above because the claimant’s proprietary interest has 
+been extinguished or overridden. (Lord Briggs 23-24, Lord Burrows para 172 & 201.)
+5. Fourthly, this conclusion cannot be displaced by comparing the claim in 
+knowing receipt to a claim for dishonest assistance. The latter claim is ancillary to the 
+liability of the trustee and renders the assister liable as an accessory. The former claim 
+is significantly different. A personal claim in knowing receipt against a transferee is 
+closely linked to a proprietary claim for the return of the property. A personal claim in 
+knowing receipt comes into play when the transferee, who is not a bona fide purchaser 
+for value without notice, no longer has the property, such as when the transferee 
+transfers, dissipates or destroys the property in question and thereby prevents a 
+proprietary claim (Lord Briggs paras 41-42, 46, Lord Burrows paras 145-149).
+Page 1
+
+6. Fifthly, the extinction or overriding of a proprietary equitable interest by the 
+time when the recipient receives the property defeats a proprietary claim. As Lord 
+Briggs observes, given the close link between the proprietary claim and the personal 
+claim in knowing receipt, it would be logically inconsistent for the law to allow the 
+personal claim in knowing receipt to survive where the proprietary claim has been 
+defeated by the lack of a continuing proprietary equitable interest. (Lord Briggs para 
+44, Lord Burrows paras 158-159, 172 & 201.)
+7. Sixthly, applying this reasoning to the facts of this case, the operation of Saudi 
+Arabian law, which was the law applicable to the property or the transaction, has the 
+effect that Saad Investments Co Ltd’s (“Saad”) proprietary equitable interest was 
+extinguished by Mr Al-Sanea’s transfer to Samba Financial Group (“Samba”) of the 
+securities which he held in trust for Saad and the registration of those securities in 
+Samba’s name. This is so, notwithstanding Mr Al-Sanea’s breach of trust and any 
+knowledge which Samba had that the transfer was in breach of trust. 
+8. The difference in reasoning between Lord Briggs and Lord Burrows is that 
+Lord Briggs analyses a claim in knowing receipt as ancillary to a proprietary claim 
+while Lord Burrows categorises a claim in knowing receipt as an “equitable 
+proprietary wrong”. This difference does not alter their shared conclusion that a claim 
+in knowing receipt is precluded where the claimant’s proprietary equitable interest has 
+been extinguished or overridden by the time when the recipient receives the property. 
+In the absence of more focussed argument from the parties on this issue, I would 
+prefer not to adopt Lord Burrows’ categorisation but would leave the argument as to 
+categorisation for another case in which the matter is examined more fully in 
+argument.
+9. Subject to the above, for the reasons common to the judgments of Lord Briggs 
+and Lord Burrows, I would dismiss the appeal. 
+LORD BRIGGS: 
+Introduction
+10. This appeal is about the equitable personal claim in what is generally called 
+knowing receipt. It usually arises where a trustee (“T”) transfers trust property 
+beneficially owned by the claimant (“C”) to the defendant (“D”) in breach of trust, 
+and D learns about that breach before disposing of the property by transfer to a third 
+party or by dissipation or destruction of it. In such a case although, after disposal, 
+dissipation or destruction of the property by D, C can no longer pursue a proprietary 
+claim that D transfer the property to C, (or if appropriate back to T or to a new 
+trustee), D incurs a personal liability to account or pay compensation to C as if D were 
+Page 2
+
+a trustee of the property. From the moment when D learns of the breach of trust, D 
+comes under a personal obligation to restore the trust property to its equitable owner, 
+and to act as its custodian in the meantime. That obligation, together with the 
+concomitant liability to account, is often described as a form of constructive 
+trusteeship. The single issue to be decided on this appeal is whether an equitable claim 
+in knowing receipt depends (among other things) upon C retaining an equitable 
+proprietary interest in the property transferred to D at the time when it reached D’s 
+hands before D either transferred, dissipated or destroyed the property. This case is 
+(perhaps) unusual in that D knew at the time of its receipt of the property that T was 
+transferring it in breach of trust and has been sued in knowing receipt without having 
+transferred, destroyed or dissipated it. The proprietary claim to the property which 
+would usually arise on those facts is defeated (as held by the Court of Appeal and is 
+now common ground) by the fact that the transfer from T to D had the effect under the 
+applicable foreign law of giving D clear title to the property, free from C’s beneficial 
+interest in it.
+11. The extended written and oral submissions on this issue (which have been of 
+the highest order) have forced the court to revisit the most basic equitable principles 
+which underlie a claim in knowing receipt, not least because it cannot be said that the 
+issue has ever been squarely addressed by this court or its predecessor, although both 
+sides rely on what they say are persuasive dicta. The question is: what purpose does 
+equity’s imposition of knowing receipt liability fulfil? Is it the best available 
+vindication of C’s continuing beneficial ownership of the subject property, when that 
+interest has been interfered with or destroyed by D as legal owner after becoming 
+aware of it, by a disposal of the property (by transfer, dissipation or destruction)? Or is 
+it equity’s response to the apparent unconscionability of the recipient D treating the 
+property as its own after learning that the property has been transferred to it in breach 
+of trust? If the former, C’s continuing beneficial ownership of the property until its 
+destruction (or impairment) by D’s disposal of the property may be said to be of the 
+very essence of the claim. If the latter, then it may not matter that the method of 
+transfer by T to D has, under the relevant applicable law, conferred upon D clean title 
+to it, free from any antecedent equitable interests, including C’s earlier beneficial 
+ownership.
+The Facts
+12. The facts which have given rise to this issue may be shortly stated. The 
+appellants are Saad Investments Co Ltd (“SICL”), a company registered in the 
+Cayman Islands, and its joint liquidators, Mr Mark Byers and Mr Hugh Dickson. The 
+Grand Court of the Cayman Islands made a winding-up order against SICL on 18 
+September 2009 pursuant to a petition presented on 30 July 2009. The Cayman Islands 
+proceedings were recognised by the English Court as foreign main proceedings 
+pursuant to the Cross Border Insolvency Regulations 2006 (SI 2006/1030) by orders 
+made on 20 August and 25 September 2009.
+Page 3
+
+13. By a number of transactions between 2002 and 2008, a Mr Maan Al-Sanea 
+(“Mr Al-Sanea”) came to hold shares in five Saudi Arabian companies (“the Disputed 
+Securities”) on trust for SICL, under various trusts governed by Cayman Islands law 
+(for these purposes being materially identical to English law).
+14. On or about 16 September 2009, Mr Al-Sanea transferred the Disputed 
+Securities to a Saudi Arabian financial institution, the Samba Financial Group 
+(“Samba”) (“the September Transfer”), the purpose of the 

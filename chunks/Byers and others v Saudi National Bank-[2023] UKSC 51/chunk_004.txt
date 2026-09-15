@@ -1,0 +1,129 @@
+o wrestle, in the absence of it mattering, and of full 
+submissions, with the first of those uncertainties, namely whether the requirement for 
+knowledge may be satisfied by constructive knowledge. But the second uncertainty, 
+whether the knowledge requirement imposes a distinct separate test or whether it is 
+just a flexible aspect of the requirement to demonstrate unconscionability, does feed 
+into the necessary analysis of the parties’ main submissions.
+A Provisional Conclusion by reference to Basic Principle
+36. Returning to the central issue, and again from the perspective of basic 
+principle, the obvious question which arises, if a claim in knowing receipt is closed off 
+as the result of the overreaching of the claimant’s equitable interest, or its being 
+overridden by a transfer to equity’s darling, is why should the opposite result follow if 
+the claimant’s equitable interest is overridden by a transfer which, under its proper 
+law, is also designed to give the recipient a clean title? Mr Crow’s main submission in 
+answer is that liability in knowing receipt is not about, or based on, matters of 
+equitable title at all, but rather about equity’s historic role as the enforcer of the 
+obligations of conscience. He backs up that submission by copious references to 
+judicial dicta which, he says, make that clear in express terms. I will return to them 
+later. Secondly he submits that, were liability in knowing receipt to be closed off by 
+any form of overriding by foreign law, then the result would be a money launderer’s 
+charter.
+37. I have not found either of those submissions to be persuasive. Of course it is 
+true that one of the fundamental purposes of equity is to impose carefully measured 
+Page 10
+
+constraints upon unconscionable conduct otherwise permitted by the law: see eg 
+Guest v Guest [2022] UKSC 27; [2022] 3 W.L.R. 911. And equity generally acts in 
+personam rather than in rem. But equity nonetheless achieves that purpose by the 
+laying down of well-understood principles (rather than hard rules) which have, over 
+time, enabled purely equitable personal rights to harden into property rights, in the 
+form of equitable interests, extending to full beneficial ownership. The classic 
+example is an equitable lease. A person with an agreement for lease has an equitable 
+in personam claim for specific performance against the contracting landlord which is 
+now recognised as a full equitable property right: see Walsh v Lonsdale (1882) 21 Ch 
+D 9.
+38. The same applies to the rights of beneficiaries under a trust. While they may 
+originate from a personal undertaking of the trustees to apply their legal rights in 
+relation to specific property for the benefit of the beneficiaries, no one doubts that the 
+beneficiaries’ rights are equitable interests in the trust property, which may be 
+enforced where appropriate by both proprietary and personal claims, not only against 
+the trustees, but also against anyone else into whose hands legal title to the trust 
+property has passed. But the inexorable consequence of the hardening of equitable 
+personal rights into interests in property is that they have to take their proper place in a 
+sophisticated system of priorities which regulates the question which interests prevail 
+where two or more come into apparent conflict. Thus competing equitable interests 
+take priority generally from their respective dates of creation. But an equitable interest 
+gives way to the later acquisition of the legal title by equity’s darling. And the priority 
+of equitable interests under trusts is regulated by the principles of overreaching and 
+overriding which I have described.
+39. Three important features of equity’s respect for priorities need to be 
+emphasised. The first is the essential fragility of a purely equitable interest, because of 
+its vulnerability to being overreached, or overridden even by a trustee acting in breach 
+of trust. The second is that the equitable principles are always vulnerable to being 
+overridden or replaced by statute, as has happened under the English system of land 
+registration, and by many Torrens systems overseas where registration is the origin, 
+not merely the evidence, of title. The third is that equity recognises the need to 
+balance its function to restrain unconscionable conduct, in the context of equitable 
+property rights, by the need to respect the public interest in the certainty and therefore 
+marketability of title.
+40. While the regulation of unconscionable conduct may be the underlying purpose 
+of many equitable principles, the extent to which unconscionability acts as a 
+determining factor in the operation of those principles in particular cases varies 
+widely. Where in the broken-down personal relations within a family a non-
+contractual promise to transfer property in the future has led to detrimental reliance, 
+unconscionability may play a large part in moulding the remedy to be given to the 
+reliant party: see again Guest v Guest (supra). But where the competition is between 
+Page 11
+
+legal and equitable interests in marketable property the underlying objective of 
+regulating unconscionable conduct needs to take second place to the established 
+principles regulating priorities. The dictates of predictable title would be nullified if in 
+every case of competing priorities the outcome depended on the endlessly variable 
+views of different chancery judges about what the dictates of conscience required on 
+the unique facts of that particular case. The same principled approach answers the 
+appellants’ related submission that the knowledge requirement is only a flexible 
+aspect of the need to demonstrate unconscionability. Issues as to priority in title to 
+property need to be resolved on a more predictable basis than that.
+41. The answer to Mr Crow’s second submission (about the money launderer’s 
+charter) is that the parallel remedy based on dishonest assistance is not at all based 
+upon any continuing equitable interest. The liability for dishonest assistance is a truly 
+ancillary liability, ancillary that is to the breach of trust by the trustee, which renders 
+the assister liable as an accessory to the same extent as the trustee. There is no 
+requirement that the assister has even received trust property. Most cases of cross-
+border fraud will involve dishonesty by all concerned in a common design.
+42. Knowing receipt is sometimes also called a form of ancillary liability, but it is 
+not in my view ancillary to the liability of the trustee. Rather it is ancillary to the 
+proprietary claim which will generally enable the continuing equitable beneficial 
+owner to recover the trust property where it has passed into the hands of someone 
+other than the trustee, without the equitable interest having been overreached or 
+overridden. The personal remedy in knowing receipt comes to the rescue if the 
+transferee then transfers, dissipates or destroys the property after learning of the 
+breach of trust, so as to prevent the pursuit of a proprietary claim. In such a case the 
+claimant’s equitable interest still subsisted at the time when the transferee learned of 
+the breach of trust, so that the later transfer, dissipation or destruction of the property 
+was a breach of the restorative and custodial duty which then bound him.
+43.  There is therefore in my judgment no principled answer to the question why a 
+claim in knowing receipt should survive any process whereby the claimant’s equitable 
+interest has been overreached or overridden, so as to give the transferee a clean title. 
+There are powerful reasons of principle why it should not. First and foremost there is a 
+deep-rooted contradiction between having clean title and being under an obligation to 
+restore the property to someone else, to look after it in the meantime, and to account 
+for any use of the property inconsistent with those duties. If the recipient is able to say 
+“the property is mine” how can he or she be subject to duties designed to protect the 
+equitable beneficial interest of someone else?
+44. Secondly there is a serious lack of logic in the view that while overreaching or 
+overriding may kill off the equitable interest necessary to maintain a proprietary 
+claim, it nonetheless leaves in place a claim in knowing receipt, with the same liability 
+Page 12
+
+to return the property to the claimant as if there was a proprietary claim. That is 
+precisely the position alleged by the Appellants in the present case, since Samba had 
+not transferred, dissipated or destroyed the Disputed Securities when the knowing 
+receipt claim was introduced by amendment.
+45. Thirdly the proposition that the overriding of any continuing equitable interest 
+by a foreign law applicable to the property or to the transaction leaves intact the claim 
+in knowing receipt fails to give appropriate respect to the primacy of that foreign law 
+in regulating title to the property in the hands of the recipient. This is because it is 
+destructive of the clean title to the property that the applicable foreign law may confer, 
+and does confer in the present case. This factor was a weighty matter in the analysis of 
+Fancourt J at first instance, and I consider that he was right to give it significant 
+weight.
+46. Fourthly to align knowing receipt liability with dishonest assistance as a form 
+of liability based upon fault arising from a connection with the breach of trust, but a 
+lesser fault than dishonesty, appears to create a two-tier structure of fault-based 
+ancillary liability with no apparent justification for doing so. By contrast the existence 
+of a knowing receipt liability against a transferee of legal title where the transaction in 
+issue did not clear off the claimant’s equitable interest, as ancillary to a proprietary 
+claim which has only been lost to the claimant by the conduct of the recipient after 
+learning of the breach of trust (and therefore the non-overreaching or overriding of 
+that i

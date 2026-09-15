@@ -1,0 +1,138 @@
+
+trust.”
+65. These dicta certainly impose a higher mental element (knowledge rather than 
+mere notice) as the criterion for imposing personal trustee-like liabilities on the 
+recipient of trust property, by comparison with liability to answer a purely proprietary 
+claim to the return of the property. But they come nowhere near to stating that the 
+underlying requirement of a continuing equitable interest in the claimant which is of 
+the essence of a proprietary claim is somehow dispensed with as a condition for the 
+Page 20
+
+more burdensome personal liability in knowing receipt, viewed as at the time of 
+receipt. That question simply did not arise in the Montagu case. 
+66. These dicta were in due course trenchantly affirmed by the Court of Appeal in 
+Bank of Credit and Commerce International (Overseas) Ltd v Akindele [2001] Ch 
+437. But first it is necessary to consider the earlier decision of the Court of Appeal in 
+El Ajou v Dollar Land Holdings plc [1994] 2 All ER 685. At first instance ([1993] 3 
+All ER 717) a complex knowing receipt claim in respect of the proceeds of a fraud 
+which had been laundered through several jurisdictions failed before Millett J because 
+he found on the facts that the corporate recipient of the money lacked the requisite 
+knowledge. The Court of Appeal reversed that decision for reasons concerned with the 
+attribution of knowledge to corporations with which we are not here concerned. But in 
+passing Hoffmann LJ provided the following short and often quoted description of the 
+requirements of a knowing receipt claim, at p 700:
+“This is a claim to enforce a constructive trust on the basis 
+of knowing receipt. For this purpose the plaintiff must show, 
+first, a disposal of his assets in breach of fiduciary duty; 
+secondly, the beneficial receipt by the defendant of assets 
+which are traceable as representing the assets of the 
+plaintiff; and thirdly, knowledge on the part of the defendant 
+that the assets he received are traceable to a breach of 
+fiduciary duty.”
+Surprisingly both sides prayed this dictum in aid in support of their rival cases. It is 
+therefore necessary to consider closely exactly what Hoffmann LJ meant by the words 
+he used. He was proffering a general description of the conditions for establishing 
+personal liability in knowing receipt, in a context in which the main issue before the 
+Court of Appeal was whether the plaintiff could satisfy the third condition. The 
+present case is about the second condition, namely whether the appellants can show 
+that Samba beneficially received the Disputed Securities and whether they were 
+“traceable as representing the assets of” SICL.
+67. There is no doubt that Samba beneficially received the Disputed Securities. 
+This is because it became common ground that “beneficial receipt” simply excludes a 
+purely ministerial receipt, like that of a bank clearing money for a customer. Samba 
+received the Disputed Securities in or towards settlement of a debt. The more difficult 
+question, about which the parties diverged, is the meaning of the phrase “assets which 
+are traceable as representing the assets of the plaintiff” and in particular the 
+requirement imposed by the inclusion of “traceable”. Mr Green submitted that this 
+necessarily required the plaintiff to show a continuing equitable beneficial interest in 
+the assets at the time of their receipt by the defendant. Mr Crow submitted that 
+“traceable” in this context merely required the plaintiff to show that the assets 
+Page 21
+
+received by the defendant were the same as, or the proceeds of, the plaintiff’s assets, 
+which he said was plainly satisfied in relation to the Disputed Securities.
+68. In my judgment Mr Green is clearly right about this. Although lawyers use and 
+misuse the word “tracing” in a variety of ways it is in substance an evidential 
+technique by which a claimant identifies property in which he claims a beneficial 
+interest, for the purpose of pursuing a proprietary claim to the property or its proceeds 
+or, usually where a proprietary claim has become impossible due to the conduct of the 
+defendant, a personal claim in knowing receipt: (see per Lord Millett in Foskett v 
+McKeown [2001] 1 AC 102, 127 and Snell’s Equity 34th ed (2019) at para 30-051). 
+Strictly tracing is the process whereby the claimant locates a substituted asset in which 
+he claims a beneficial interest, whereas following is the process whereby the claimant 
+locates the original asset in the hands of a stranger. But both are commonly referred to 
+as tracing, and I have no doubt that Hoffmann LJ was using tracing in that combined 
+sense as including following in the passage under consideration.
+69. It is well settled that neither tracing nor following can be pursued against 
+property in the hands of equity’s darling: see again Snell (op. cit.) at para 30-055. This 
+is because the claimant’s beneficial interest in the property has been extinguished (as 
+explained above). Thus if Hoffmann LJ was using tracing in that way, his second 
+condition for the pursuit of a claim in knowing receipt clearly contemplates that the 
+claimant must be able to assert a continuing equitable beneficial interest in the subject 
+property at the time of its receipt by the defendant. If the claimant can do so, then the 
+asset will be traceable property. If not, then there can be no tracing (or following) the 
+asset into the defendant’s hands and neither a proprietary nor a knowing receipt claim 
+will be available. 
+70. That the property should be traceable was relevant to the issues before the 
+Court of Appeal in El Ajou because the appellants were (albeit unsuccessfully) 
+challenging the respondent’s case that the relevant property was traceable. 
+Nonetheless it was not an appeal in which there was any assertion that the claimant’s 
+interest had been extinguished by overreaching or overriding. It was however a case in 
+which the claimant’s money had been laundered through a number of offshore civil 
+law jurisdictions. At first instance it was submitted that this must have extinguished 
+the plaintiff’s equitable interest, but Millett J rejected this on the basis that no foreign 
+law to that effect had been pleaded or proved: see [1993] 3 All ER 717, 736. He added 
+(obiter) that even if it had been it would have been of no avail, because the claim in 
+knowing receipt was a receipt-based restitutionary claim for which the governing law 
+was the country where the defendant received the money, and the defendant had 
+received the money in England. If by that observation Millett J meant that a knowing 
+receipt claim could be based upon receipt in England after the claimant’s beneficial 
+interest had been overridden by a transaction taking place abroad, according to the 
+applicable foreign law, then I would respectfully disagree. In my view, for reasons 
+already given, once the claimant’s beneficial interest in the property has been 
+Page 22
+
+extinguished, then any successor in title will equally be free from a knowing receipt 
+claim, although if the property returns to the hands of the original trustee, he or she 
+will hold it again on the original trusts. Of course if all the parties to the offshore 
+transactions alleged to have cleared off the claimant’s equitable beneficial interest are 
+co-conspirators in the same fraud, then they will not be permitted to rely for that 
+purpose upon their own wrong.
+71. Much the most important and controversial case for present purposes is 
+Macmillan Inc. v Bishopsgate Investment Trust plc (No 3) [1995] 1 WLR 978 (Millett 
+J); [1996] 1 WLR 387 (CA). Shares belonging to the Delaware incorporated plaintiff 
+but held by the first defendant as nominee (ie on bare trust) were misapplied in favour 
+of several other defendants, in each case pursuant to transactions taking place in New 
+York, where the shares were located. The shares (or most of them) were still in the 
+hands of the defendants when the plaintiff sued to recover them, by a proprietary 
+claim, coupled with a claim for equitable compensation against the recipients.
+72.  The law of New York provided that a transferee of the shares for value without 
+notice took a clean title free from any beneficial interest of the plaintiff. Both Millett J 
+and the Court of Appeal, albeit for different reasons, decided that New York law was 
+the law applicable to the transactions under which the shares reached the hands of the 
+defendants, and that those transactions thereby extinguished the plaintiff’s equitable 
+interest in them, or at least gave the defendants a prior right of ownership, because the 
+defendants had no notice of the plaintiff’s interest. Both the proprietary and personal 
+claims therefore failed. Both courts treated the issue between the parties as one of 
+competing priorities as between interests in the shares. 
+73. The case is of importance for present purposes because of the way in which 
+Millett J explained his conclusion that the issue between the parties was to be 
+characterised as one of priorities between competing proprietary interests. He said 
+this, at pp 988 – 989:
+“In order to ascertain the applicable law under English 
+conflict of laws, it is not sufficient to characterise the nature 
+of the claim: it is necessary to identify the question at issue. 
+The English law of restitution makes a fundamental 
+distinction between the unjust enrichment of the defendant 
+which is occasioned by depriving the plaintiff of his 
+property and enrichment which results from a wrong done to 
+the plaintiff by the defendant. In the first category of case 
+the plaintiff’s restitutionary claim is said to have a 
+proprietary base. The enrichment of the defendant is at the 
+direct expense of the plaintiff and is matched by a 
+corresponding diminution of his assets. The plaintiff brings 
+Page 23
+
+the claim in order to recover his own property and must 
+succeed, if at all, by virtue of his own title. In the latter class 
+of case his claim a

@@ -1,0 +1,145 @@
+isters) who are not true 
+trustees but are treated, for the purposes of equitable relief, as if they are trustees and 
+fall within section 21(3) with its six-year limitation period. 
+136. Mr Crow drew on that distinction to submit that it showed that liability for 
+knowing receipt does not rest on a continuing equitable interest because, if it did, the 
+recipient would be a true trustee and, applying the Supreme Court’s reasoning, 
+knowing receipt would have fallen, but did not, within section 21(1). His written 
+submission on this point was expressed in the following way: 
+“It follows that if a claimant in knowing receipt is always 
+required to prove that they retained a proprietary interest in 
+the property in the defendant’s hands, a claim in knowing 
+receipt will always involve an allegation that the defendant 
+either was at some stage, or remains, a true trustee of the 
+relevant property.”
+137. I reject that submission for two main reasons. First, Williams was concerned 
+with interpreting section 21 of the Limitation Act 1980. That is a notoriously difficult 
+provision to interpret and it cannot be assumed that the division of trusts that was 
+drawn by the Supreme Court (and by courts in other cases) for the purposes of making 
+sense of that provision has general application. 
+138. Secondly, it is a non sequitur for Mr Crow to argue that a requirement of a 
+continuing equitable proprietary interest necessitates that the recipient is a “true 
+trustee” so that section 21(1) would be applicable, contradicting the decision in 
+Williams. On the contrary, the knowing recipient is plainly not an express trustee and 
+has not assumed any fiduciary obligations. A requirement of a continuing equitable 
+proprietary interest may be said to be consistent with treating the knowing recipient as 
+Page 45
+
+a constructive trustee and the reasoning of the Supreme Court is that such a 
+constructive trustee is not a “true trustee” for the purposes of section 21 and therefore 
+falls within section 21(3) and not section 21(1). 
+139. It follows from my rejection of Mr Crow’s submissions on Williams that, in my 
+view, neither the decision nor the reasoning in Williams lends support to either party’s 
+case.
+(c) Haque
+140. In Haque, in the context of deciding whether a freezing injunction should be 
+continued against the defendant, the issue arose as to whether there was a serious 
+question to be tried that the claimant (who was the beneficiary under a trust) had a 
+proprietary claim, or a knowing receipt claim, against the defendant in respect of a 
+house that the defendant had bought at a low value knowing that it was being sold to 
+him in breach of trust. The defendant took good title to the house because the claimant 
+had failed to register his interest in the house, and was not in actual occupation, so that 
+section 29 of the Land Registration Act 2002 did not protect the claimant. Henderson 
+J therefore held that the claimant’s proprietary claim could not succeed. As regards the 
+personal claim for knowing receipt, Henderson J held that there was no reasonable 
+prospect of the claimant successfully proving the defendant’s requisite knowledge as 
+pleaded so that that claim would also fail. 
+141. However, the importance of the case for our purposes is that, at the start of his 
+analysis of knowing receipt, Henderson J said that the fact that the proprietary claim 
+would fail did not in itself rule out the knowing receipt claim. At para 47, he said of 
+knowing receipt:
+“It is a liability which affects his conscience directly, and is 
+not dependent upon the survival of the claimant’s original 
+beneficial interest as one which binds the Property in his 
+hands. This way of putting the claim is therefore unaffected 
+by the technicalities of overreaching and land registration as 
+[counsel for the defendant] rightly accepted.”
+142. On the face of it, this obiter dictum directly supports the submissions for the 
+appellants. However, it should be noted that the defendant’s counsel was conceding 
+the point and it would appear that there was little, if any, argument about it. That the 
+obiter dictum was based on the concession may be thought to be supported by the fact 
+that, subsequently in the Court of Appeal in Davies v Ford [2023] EWCA Civ 167, 
+after hearing argument on the point, Sir Launcelot Henderson (with whom Asplin and 
+Macur LJJ agreed), at paras 74-95, took the opposite view to the one he had taken in 
+Page 46
+
+Haque (without mentioning that case). Admittedly, he was by then bound by the 
+decision of the Court of Appeal in this case but he expressed the view, at para 95, that 
+the Court of Appeal in Byers was restating “well-established principles”. 
+(3) Conclusion on the case law
+143. My conclusion is that, overall, the case law tends to support the respondent’s 
+case. However, only Macmillan can be regarded as a decision on the point and even 
+that is not entirely clear. In any event, there is no decision on the point at the level of 
+this court. As I have already flagged (see para 116 above), it is therefore imperative to 
+answer the knowing receipt issue as a matter of principle. I now turn to that analysis 
+of principle.
+5. The principled answer to the knowing receipt issue 
+144. I shall assume initially that one is dealing, as on the facts of this case, with the 
+paradigm situation where, at the start of the story, there is an express trust. I am 
+therefore confining myself to where a trust asset, of which C is the beneficiary, is in 
+breach of trust by T, the trustee, transferred to the knowing recipient, D. 
+(1) Knowing receipt distinguished from dishonest assistance
+145. Like dishonest assistance, knowing receipt is best viewed as an equitable 
+wrong (if one puts to one side any unjust enrichment analysis of knowing receipt: see 
+para 102 above). The distinction between those two ways in which a stranger to a trust 
+(ie a non-trustee) may be held liable in relation to a breach of trust committed by the 
+trustee was first overtly recognised by Lord Selborne LC in Barnes v Addy (1874) LR 
+9 Ch App 244. In a well-known passage, he said at pp 251-252:
+“[S]trangers are not to be made constructive trustees merely 
+because they act as the agents of trustees in transactions 
+within their legal powers, transactions, perhaps of which a 
+Court of Equity may disapprove, unless those agents receive 
+and become chargeable with some part of the trust property, 
+or unless they assist with knowledge in a dishonest and 
+fraudulent design on the part of the trustees.”
+146. There have been many subsequent cases which have refined Lord Selborne’s 
+description which explains why, today, we can refer to the two wrongs, for shorthand, 
+as knowing receipt and dishonest assistance. But it is important to recognise that the 
+two types of wrong fundamentally differ. 
+Page 47
+
+147. Dishonest assistance - more fully, dishonestly procuring or assisting a breach of 
+trust (or other fiduciary duty) which, it is now accepted, need not be a dishonest or 
+fraudulent breach of trust (or fiduciary duty) - is an accessory equitable wrong. It 
+corresponds to accessory liability in the law of tort. After Royal Brunei Airlines v Tan 
+[1995] 2 AC 378 (and the subsequent clarification in Barlow Clowes International Ltd 
+v Eurotrust International Ltd [2005] UKPC 37, [2006] 1 WLR 1476, as to what 
+dishonesty here means) the law on dishonest assistance is well-settled and clear. 
+148. Knowing receipt is significantly different. Although it is like dishonest 
+assistance in being linked to another’s wrong – a breach of trust (or breach of 
+fiduciary duty) – it is not a form of accessory liability and is not an accessory wrong. 
+As I shall explain in more detail under the next subheading, in the context of where 
+there has been a breach of trust (or breach of fiduciary duty) by another, it can be 
+helpfully viewed as the equitable analogue of the tort of conversion because it is a 
+proprietary wrong concerned with interference with equitable proprietary rights, albeit 
+that that analogy is a loose one because, unlike the tort of conversion, it requires 
+knowledge and does not impose strict liability. The distinction between dishonest 
+assistance and knowing receipt may also perhaps be compared to the distinction, in 
+criminal law, between, on the one hand, aiding abetting counselling and procuring a 
+crime, and, on the other hand, handling stolen goods.
+149. In an illuminating analysis, Paul Davies, Accessory Liability (2015) pp 91-92, 
+makes clear that knowing receipt, unlike dishonest assistance, is not a form of 
+accessory (or participatory) liability. He writes (footnotes omitted):
+“It has sometimes been argued that receipt-based claims 
+should be considered together with assistance liability 
+because both are premised upon participation in a primary 
+wrong… However, it is suggested that the better view is that 
+liability in knowing receipt is not participatory at all. Simply 
+receiving misapplied property is inherently passive. It does 
+not necessarily contribute to the primary wrong, and may 
+occur long after the primary breach of duty, once the 
+property has passed through many hands… There are further 
+dissimilarities with assistance-based claims. For instance, 
+the source of a receipt-based claim lies in the realm of 
+property, which is different from participatory accessory 
+liability…”
+150. Before moving on from the distinction between dishonest assistance and 
+knowing receipt, it should be noted that on particular facts a defendant may be 
+concurrently liable for both. That is, the particular knowing receipt may also constitute 
+the wrong of dishonest assistance. This will be so, for example, where the receipt of 
+Page 48
+
+trust assets by the defendant is part of a dishonest plan between the trustee and the 
+defendant. Again, this point is well made by Paul Davies, Accessory Liability (2015) 
+pp 92-93:
+“Any amalgamation of assistance and receipt-based l

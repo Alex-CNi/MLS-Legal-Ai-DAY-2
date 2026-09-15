@@ -26,5 +26,6 @@ pg = st.navigation([
     st.Page("pages/exercise2.1.py", title="Exercise 2.1", icon="📝"),
     st.Page("pages/exercise2.2.py", title="Exercise 2.2", icon="📝"),
     st.Page("pages/exercise2.3.py", title="Exercise 2.3", icon="📝"),
+    st.Page("pages/exercise2.4.py", title="Exercise 2.4", icon="📝"),
 ])
 pg.run()

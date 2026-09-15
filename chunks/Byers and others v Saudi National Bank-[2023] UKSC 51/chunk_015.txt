@@ -1,0 +1,148 @@
+ul Davies, Accessory Liability (2015) 
+pp 92-93:
+“Any amalgamation of assistance and receipt-based liability 
+is unhelpful and could potentially have a distorting effect on 
+each area. However, the two types of claim may both arise 
+from the same set of facts. For example, if a defendant 
+offered to receive misapplied property in order to facilitate a 
+fraudulent scheme, such as money laundering, then the 
+defendant might be liable not only for any subsequent 
+receipt of trust property, but also as an accessory for 
+participating in the primary breach of trust: the 
+communication of a willingness to accept misapplied trust 
+property may have encouraged or induced the primary 
+wrong. But even though these two claims may be brought 
+concurrently, it is important to remember that they do not 
+rest upon the same basis.” 
+(2) The nature of knowing receipt as an equitable wrong
+151. What is the precise nature of knowing receipt viewed as an equitable wrong? In 
+the context of where there has been a breach of trust (or breach of fiduciary duty) by 
+another, it can be helpfully seen, as I have just indicated, as the equitable analogue of 
+the tort of conversion albeit that the analogy is a loose one because it does not impose 
+strict liability. It is a proprietary wrong that is constituted by the defendant knowingly 
+interfering, by receipt or retention, with the equitable proprietary rights of the 
+claimant. 
+152. That this is the correct analysis of knowing receipt was set out 25 years ago, in 
+a characteristically perceptive article, by Lionel Smith, “W(h)ither knowing receipt?” 
+(1998) 114 LQR 394. The main focus of that article was to reject the view (associated 
+most famously with Peter Birks, although Birks later modified his approach: see his 
+book chapter referred to in para 104 above) that knowing receipt can be rationalised as 
+an example of unjust enrichment. But in the course of that rejection, Smith made a 
+number of insightful comments that are directly relevant to the case before us. At pp 
+394-396 he wrote as follows: 
+“It appears that the best view of knowing receipt is that it is 
+equity’s analogue to the common law’s claim in 
+conversion…
+Page 49
+
+Probably the main reason for thinking that knowing receipt 
+is equity's conversion is the focus on proprietary rights 
+which the claim demands… [A] wrongful interference with 
+[proprietary] rights in the past appears to be of the essence 
+of the claim… Clearly, if the defendant was a bona fide 
+purchaser of a legal interest for value without notice of the 
+plaintiff's pre-existing equitable rights, the defendant is not 
+liable in knowing receipt…
+One way to identify that which the law considers a wrong is 
+that it will generate liability for consequential losses. …. It 
+seems clear that a knowing recipient whose actions caused 
+losses greater than the value received could be made liable 
+to repair such losses. There is a hint of this in the old 
+language: he is ‘liable to account as a constructive trustee’. 
+That means that he must render an account of what he did 
+with the property, as if he were an express trustee; and he 
+will be personally liable (as though in breach of trust) to the 
+extent that his account shows improper management of the 
+fund…
+Again, a defendant who receives property without the 
+requisite mental state is not liable; but he will become so if 
+he acquires that mental state while he still holds the property 
+(or its traceable proceeds) …This ‘supervening liability’ is 
+consistent only with knowing receipt as equity's conversion, 
+since it presupposes a continuing proprietary right in the 
+plaintiff with which the defendant interferes, his interference 
+changing from non-culpable to culpable at a time when the 
+proprietary right still endures.”
+153. It might at first sight be thought that the better (or at least an alternative) 
+analogue for knowing receipt is the economic tort of causing loss by unlawful means 
+(for that tort, see Clerk & Lindsell on Torts 24th ed, (2023) paras 23-80 – 23-100). 
+However, on closer inspection it is clear that they are not analogous. That economic 
+tort requires the use of “unlawful means” by the defendant with the intention to harm 
+the claimant. There are no equivalent requirements in relation to knowing receipt. The 
+defendant may be merely the passive recipient (albeit with the requisite knowledge) of 
+the asset transferred by the trustee. A defendant (D) who knows that a party to a 
+contract with C is breaking its contract with C in order to benefit D does not commit 
+the tort of causing loss by unlawful means by accepting that benefit. That should be 
+contrasted with where D was procuring or inducing the breach of contract: in that 
+situation, analogously to dishonest assistance, there would be accessory tortious 
+liability (see Clerk & Lindsell on Torts paras 23-19 – 23-63). 
+Page 50
+
+154. Another way of explaining the point that knowing receipt is a proprietary 
+wrong is to turn round Mr Crow’s emphasis throughout his submissions on the need 
+for the receipt to be unconscionable. A receipt cannot be said to be unconscionable for 
+the purposes of establishing a wrong (I put to one side unjust enrichment) where a 
+defendant is doing nothing more than receiving an asset that belongs to the defendant 
+beneficially. 
+(3) The logical consequence of the nature of the wrong
+155. It is a logical consequence of the nature of the wrong of knowing receipt that 
+the conferral of unencumbered title on the recipient does defeat the knowing receipt 
+claim. There are two essential steps in the reasoning:
+(i) As I have explained, knowing receipt, as an equitable wrong, comprises 
+knowingly interfering with the equitable proprietary rights of the claimant by 
+receiving or retaining, with the requisite knowledge, an asset transferred in 
+breach of trust (or breach of fiduciary duty), in which the claimant has an 
+equitable proprietary interest. 
+(ii) It follows from the nature of that wrong that the claimant must have a 
+continuing equitable proprietary interest in the asset when it is received or 
+retained by the defendant with the requisite knowledge. There will be no such 
+wrong where the transfer confers unencumbered title in the asset on the 
+defendant recipient. 
+156. I should add here that it is not in dispute in this appeal that, by reason of Saudi 
+Arabian law, the registration of title to the shares did confer unencumbered title on 
+Samba. It has not been suggested, for example, that the registration might have left 
+unaffected equitable proprietary interests. In other words, it is not in dispute that the 
+registration of title has had an equivalent effect in Saudi Arabian law (albeit more 
+naturally described as “extinguishing” rather than “overriding” equitable proprietary 
+interests) as would have been the case in English law if the shares had been purchased 
+by a bona fide purchaser of the legal title for value without notice. It has also not been 
+suggested that there are different policy considerations that we must consider in 
+respect of the Saudi Arabian registration scheme. Nor, similarly, has it been suggested 
+that the answer to the issue before us turns on the interpretation of the particular 
+provisions of the Saudi Arabian share registration scheme. Put shortly, the question in 
+dispute is not about whether unencumbered title has been conferred and does not turn 
+on a question of statutory interpretation. It is rather about the effect as a matter of 
+English common law (including equity) that that conferral of unencumbered title has 
+on the claim for knowing receipt.
+Page 51
+
+(4) The link between the equitable personal claim and the equitable proprietary 
+claim
+157. There is a further aspect of the correct principled answer to the question in this 
+case which I have not so far mentioned. Once one recognises that knowing receipt is 
+an equitable proprietary wrong that depends on the claimant having a continuing 
+equitable proprietary interest in the asset received, or retained, by the defendant, it 
+becomes clear that the personal knowing receipt claim has the same essential 
+proprietary basis as the equitable proprietary claim to the asset. So, if the defendant 
+still retains the asset, in which the claimant has a continuing equitable proprietary 
+interest, the claimant is entitled to an equitable proprietary remedy for the return of 
+that asset. But if the defendant no longer retains the asset, the claimant still has a 
+personal claim for knowing receipt provided the claimant had a continuing equitable 
+proprietary interest, and the defendant had the requisite knowledge, at the time of the 
+defendant’s receipt or retention. 
+158. The equitable personal and proprietary claims are therefore fundamentally 
+linked. Both are defeated if the defendant takes legal title to the asset unencumbered 
+by equitable interests, as where, for example, the defendant is equity’s darling. It 
+follows that I reject one of Mr Crow’s central submissions that the personal and 
+proprietary claims rest on very different foundations and are, for that reason, to be 
+sharply distinguished. 
+159. On the facts of this case, Samba still had the shares at the time the claim was 
+commenced. It follows from what has just been said about the link to the proprietary 
+claim – and the rejection of Mr Crow’s submission that the personal and proprietary 
+claims rest on very different foundations - that there is an obvious weakness in the 
+claim for knowing receipt brought by the appellants. That weakness is exposed if one 
+asks, “Why did not the appellants bring an equitable proprietary claim for the return of 
+the shares?” Presumably the answer is that, in respect of that proprietary claim, it 
+would be very clear that the conferral of unencumbered title on Samba would defeat 
+the claim. But given the linkage between the personal and proprietary claims, it would 
+equally be odd if the appellants could turn from inevitable fai

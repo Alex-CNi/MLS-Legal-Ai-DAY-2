@@ -1,0 +1,128 @@
+al institution, the Samba Financial Group 
+(“Samba”) (“the September Transfer”), the purpose of the transfer being to discharge 
+debts owed by Mr Al-Sanea to Samba. He did so in breach of trust. At the time of 
+Samba's receipt of the Disputed Securities it knew that Mr Al-Sanea was holding the 
+Disputed Securities on trust for SICL. A reasonable bank in Samba's position would 
+have appreciated that (alternatively would or ought to have made inquiries or sought 
+advice which would have revealed the probability that) the September Transfer was a 
+breach of trust; and/or Samba recklessly failed to make such inquiries about the 
+September Transfer and the Disputed Securities as an honest and reasonable bank 
+would make. 
+15. The governing law of the September Transfer was Saudi Arabian law, which 
+does not recognise a distinction between legal and beneficial ownership as such. As a 
+matter of Saudi Arabian law, the effect of the September Transfer (and in particular 
+the registration of the Disputed Securities in Samba's name) was that SICL had no 
+continuing proprietary interest in the Disputed Securities following the transfer. 
+Samba retained the Disputed Securities and was the sole defendant at the time of the 
+trial. Subsequently its assets and liabilities have become vested in the respondent the 
+Saudi National Bank, but nothing turns on that.
+The Issue before this Court
+16. Samba (and now the respondent as the successor to its assets and liabilities) 
+maintains, and has persuaded the courts below (Fancourt J [2021] EWHC 60 Ch and 
+the Court of Appeal [2022] EWCA Civ 43; [2022] 4 WLR 22, consisting of Newey, 
+Asplin and Popplewell LJJ) that the overriding of SICL’s equitable beneficial interest 
+in the Disputed Securities by the registration of Samba as their owner was fatal not 
+merely to any proprietary claim by SICL but also to a personal claim in knowing 
+receipt against Samba. The appellants say that the claim in knowing receipt does not 
+require any such continuing equitable interest in the property in dispute. All it requires 
+is that Samba knew that the Disputed Securities were transferred to it in breach of 
+trust, so that it would be unconscionable for Samba to use them for its own benefit.
+17. The detailed analysis of this issue by both the courts below focussed primarily 
+(and perfectly properly) on the state of the authorities, on the footing that if the 
+requirement for a continuing equitable interest in the subject property was part of the 
+ratio of an earlier decision, at least in the Court of Appeal or above, then they were 
+Page 4
+
+bound by it. This court is not so bound, and in the light of some dicta in the reported 
+cases which might be said to support the appellants’ case, I prefer to begin by 
+considering the question as a matter of basic equitable principle. As will appear, that 
+analysis leads me to a provisional conclusion that the courts below were right in the 
+answer they reached. My own analysis of the authorities affirms that conclusion.
+Basic Principles of Equity
+18. It is convenient at the outset to set metes and bounds to this battlefield by 
+describing some of the relevant equitable principles which bear on this issue, and 
+which are either common ground or beyond realistic challenge. The first concerns the 
+very nature of an equitable interest in property. By contrast with a legal interest or 
+estate, which is good against all the world, an equitable interest is (statute or foreign 
+law apart) good against all the world except a bona fide purchaser for value of the 
+legal estate without notice of that interest, a person traditionally given the name 
+equity’s darling. For brevity I will use that phrase in what follows. Thus, at common 
+law (by which I include the principles of equity) an equitable interest in specific 
+property is unaffected by the transfer of the property in breach of trust to a volunteer, 
+or even to a purchaser for value if the purchaser has notice of the equitable interest 
+(see Pilcher v Rawlins (1872) L.R. 7 Ch. App. 259 and as summarised by Lord 
+Browne-Wilkinson in Westdeutsche Landesbank Girozentrale v Islington London 
+Borough Council [1996] A.C. 669, 705). If the interest in question amounts to full 
+beneficial ownership then such a purchaser may have bought a pup, but their remedy 
+will lie (if at all) only against the vendor or their own advisors.
+19. The next basic principle concerns the ways in which an equitable interest in 
+specific property (including full beneficial ownership) may cease to affect that 
+property, without any consent or other action by the equitable owner. The first and 
+most common is where the trustee (in whom the legal title is vested) has power under 
+the terms of the trust to dispose of the property free of the equitable interest. This may 
+be a power to dispose by way of sale, but it may include power to dispose to a 
+volunteer (eg by the exercise of a power of appointment). In such a case the original 
+equitable interest is said to be overreached. Typically the previous equitable interest of 
+the beneficiary C in the subject property will transfer to the proceeds of its sale, but 
+this is neither a condition for overreaching, nor an inevitable consequence, eg where 
+the trustee disposes of the property by the exercise of a power of appointment which 
+generates no proceeds at all (see the explanation by Peter Gibson LJ in State Bank of 
+India v Sood [1997] Ch. 276, 281 by reference to Charles Harpum Overreaching, 
+Trustees' Powers and the Reform of the 1925 Legislation [1990] CLJ 277).
+20. Secondly, as already mentioned, the equitable interest will cease to affect the 
+property on its sale to equity’s darling, even if the sale amounted to a breach of trust. I 
+will call this the overriding rather than overreaching of the equitable interest. In that 
+Page 5
+
+context the element in the requirement that the purchaser take the property “without 
+notice” means without notice of the equitable interest which would otherwise continue 
+to affect the property after the transfer. Notice (or even knowledge) that the property 
+was previously subject to C’s equitable interest would not on its own be enough, 
+unless the purchaser knew, or had notice, that the sale by the trustee was in breach of 
+trust, and therefore incapable of overreaching that equitable interest. It is only if the 
+purchaser has notice of an equitable interest which would not be overreached by the 
+sale that he/she would lose the protection of being equity’s darling. Thus knowledge 
+or notice that the transfer involved a breach of trust is generally the equivalent of 
+knowledge or notice of a continuing equitable interest.
+21. Thirdly, C’s equitable interest will cease to affect the subject property if the 
+mode of disposition of the legal title is such that, under the law applicable either to the 
+property or to the transaction, the transferee takes free of it, even if the property is 
+transferred in breach of trust. This may occur in a purely English law context where 
+the property in question is land and the proceeds of sale are paid to two trustees or to a 
+trust corporation: see section 2 of the Law of Property Act 1925, or registered land 
+where, in bare outline, Parliament has chosen to replace notice with registration as the 
+governing criterion for the survival of most equitable interests (other than those 
+supported by occupation). Or it may be the consequence of applicable foreign law, 
+such as, in the present case, the law of Saudi Arabia in relation to the transfer of title 
+to shares by registration: see Akers v Samba Financial Group [2017] UKSC 6; [2017] 
+AC 424 discussed below. Again I will call this a form of overriding rather than 
+overreaching, but there is no magic in the distinction.
+22. It is common ground that the ability of C to vindicate his or her equitable 
+interest by a proprietary claim, even while the property remains in the hands of D, will 
+be defeated by any of the above types of transfer by the trustee (“T”) to D. This is for 
+the very simple reason that all three types of transfer have the effect of destroying C’s 
+equitable interest in the property. C simply cannot say to D: “give me back my 
+property”. The property has become beneficially owned by D, free from (or in priority 
+to) any proprietary claim by C. D can simply say: “no, it’s now mine”.
+23. It is also well settled that the first two types of transfer also preclude any later 
+claim against D in knowing receipt. The first of course involves no breach of trust or 
+unconscionable conduct by anyone. But the second (transfer in breach of trust to 
+equity’s darling) does, at least on the part of T. Nonetheless it is I think clear that after 
+such a transfer, the subsequent acquisition by the transferee D of knowledge that the 
+transfer had involved a breach of trust by T gives rise to no liability in knowing 
+receipt. It is in issue whether this is because, after the transfer to D (being equity’s 
+darling), D has a title freed for ever from C’s equitable interest, or because, having 
+acquired the property as equity’s darling, later knowledge that a breach of trust was 
+involved does not make it unconscionable for D to continue to treat the property as 
+Page 6
+
+his/her own. The latter explanation is proffered by the appellants, the former by the 
+respondent.
+24. Some help in answering that question as a matter of principle may be gained by 
+focussing on the position of a transferee (“X”) of former trust property from equity’s 
+darling (“D”) when X knows of the breach of trust committed by the transfer by T to 
+D. It is well settled that, dishonesty apart, X nonetheless takes free of any claim 
+(personal or proprietary) by the original beneficial owner (“C”), unless X is the 
+original trustee (“T”) (see Wilkes v Spooner [1911] 2 K.B. 473, 483, and In re 
+Stapleford Colliery Co; Barrow’s Case (1880) 14 Ch D 432 CA, discussed below). 
+This must be because the transfer to D fr

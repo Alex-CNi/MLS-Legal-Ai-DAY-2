@@ -1,0 +1,136 @@
+ after 
+learning of the breach of trust (and therefore the non-overreaching or overriding of 
+that interest), makes logical sense and does good equity.
+47. Finally, in the absence of any original fiduciary relationship between the 
+claimant and the defendant, or other relationship giving rise to equitable obligations 
+between them, or fraud, why should a transferee with a clear title unaffected by any 
+equitable interest of the claimant have any liability in equity to the claimant? There is 
+simply no equity between them capable of giving rise to an equitable claim. This may 
+be little more than another way of expressing the first point, but it does accord closely 
+with the prevailing analysis in the leading authorities.
+The Authorities 
+48. The many reported cases on knowing receipt liability need to be read with a 
+number of cautionary points in mind. The first is that, with one possible exception, all 
+of those in which a liability in knowing receipt was established (and several where it 
+was not) were cases in which the claimant did have a continuing equitable interest in 
+the property in dispute at the time when the defendant learned of the breach of trust. 
+Therefore the courts were not concerned even to consider, let alone decide, whether 
+the continuation of such an equitable interest was a condition for liability. 
+Page 13
+
+49. Secondly, a significant group of cases (which I shall call the corporate cases) 
+dealt with knowing receipt liability in the absence of any pre-existing traditional trust 
+or, therefore breach of trust, or any pre-existing equitable interest. But they proceeded 
+on the basis that a division between the former legal title and beneficial interest of the 
+claimant company occurred at the moment of the breach of fiduciary duty by the 
+directors in misappropriating the relevant company property, so that knowing receipt 
+liability could be determined as if there had been both a trust of the property and a 
+continuing beneficial interest in it, which the company continued to enjoy.
+50. Thirdly there is to be found from time to time a certain looseness in the use of 
+language to describe equitable concepts, such as constructive trusts, tracing, 
+knowledge and notice, that can make it hard to be certain of the precise meaning of 
+certain (sometimes famous) dicta from distinguished equity judges. And some of the 
+dicta even appear sometimes to contradict dicta by the same judge in an earlier case.
+51. All these cautionary points mean that care needs to be taken to analyse some of 
+the relevant dicta, and in particular by close attention to context. When that is done I 
+do consider that the authorities, taken as a whole, tend to support my foregoing 
+analysis of the present question, and that the courts below were correct to reach the 
+same conclusion. 
+52. Chronologically, the unavoidable starting point for any analysis of knowing 
+receipt, and indeed for dishonest assistance, as equitable doctrines, is Barnes v Addy 
+(1874) LR 9 Ch App 244. This is because, although Lord Selborne LC, giving the 
+leading judgment in the Court of Appeal, plainly did not think he was making any new 
+law but rather stating well-settled principle, he brought the twin doctrines to life as it 
+were fully grown without enabling the reader to tell which earlier authorities he had in 
+mind, and counsel for the successful respondent was not called upon. 
+53. The issue before the Court of Appeal was whether two solicitors, who had 
+acted for trustees in connection with dispositions of the trust property in alleged 
+breach of trust, could be made liable for the loss of the trust property at the suit of the 
+beneficiaries, the trustee principally in default having gone bankrupt. The breaches of 
+trust did not involve any overreaching or overriding of the beneficiaries’ equitable 
+interests. More to the point the solicitors had neither received the trust property nor 
+done anything dishonest. Lord Selborne’s concern was therefore to explain why the 
+solicitors could not be made liable, rather than to lay down with any precision the 
+conditions for liability in knowing receipt or dishonest assistance. His famous dictum 
+is as follows, at pp. 251-252: 
+“Now in this case we have to deal with certain persons who 
+are trustees, and with certain other persons who are not 
+trustees. That is a distinction to be borne in mind throughout 
+Page 14
+
+the case. Those who create a trust clothe the trustee with a 
+legal power and control over the trust property, imposing on 
+him a corresponding responsibility. That responsibility may 
+no doubt be extended in equity to others who are not 
+properly trustees, if they are found either making themselves 
+trustees de son tort, or actually participating in any 
+fraudulent conduct of the trustee to the injury of the cestui 
+que trust. But, on the other hand, strangers are not to be 
+made constructive trustees merely because they act as the 
+agents of trustees in transactions within their legal powers, 
+transactions, perhaps of which a Court of Equity may 
+disapprove, unless those agents receive and become 
+chargeable with some part of the trust property, or unless 
+they assist with knowledge in a dishonest and fraudulent 
+design on the part of the trustees.”
+54. One point deserves noting at this early stage. It is that, as the key criterion for 
+liability in what is now called knowing receipt, Lord Selborne identifies those who 
+“receive and become chargeable with some part of the trust property” rather than 
+knowledge of the breach of trust or any other kind of fault. The implication is that the 
+property should still be trust property in the recipient’s hands, rather than (for 
+example) property which has been freed from any equitable interest of the 
+beneficiaries by overreaching or overriding. 
+55. No analysis of the knowing receipt doctrine would be complete without some 
+reference to In re Diplock [1948] Ch 465 in which numerous distributions were made 
+in breach of trust by administrators in the mistaken belief that a gift to “charitable or 
+benevolent objects” was a valid charitable residuary bequest. Personal and proprietary 
+claims were made to recover the distributions for the benefit of the deceased’s next of 
+kin. Mr Crow submitted that nowhere in the analysis of the personal claim by the 
+Court of Appeal (at pp 478-479) is there any express statement about the need for 
+there to be a continuing equitable interest in the claimant at the time when the 
+defendant receives knowledge (there described as notice) of the breach of trust. But 
+the defendants were, as the Court of Appeal pointed out, all pure volunteers so that the 
+requirement for a continuing equitable interest was plainly satisfied. Furthermore, 
+what we would now call the knowing receipt claim was not even argued at first 
+instance, and only “somewhat faintly argued” in the Court of Appeal. In re Diplock 
+therefore affords no significant assistance on the question before this court.
+56. It is convenient now to look in more detail at the two main cases in which the 
+doctrine of constructive trusts has been explained as being applicable to company 
+property misapplied by directors in breach, not perhaps of trust, but of fiduciary duty. 
+The first is Selangor United Rubber Estates Ltd v Cradock (No 3) [1968] 1 WLR 
+1555, a decision at first instance by Ungoed-Thomas J. After the assets of the subject 
+Page 15
+
+company had been realised for cash, substantial parts of that cash were misapplied by 
+the directors toward financing the purchase of the company’s shares, contrary to 
+section 54 of the Companies Act 1948. At the direction of the Board of Trade the 
+company sought to recover the money misapplied from the recipients, the directors 
+and from the company’s bankers. The constructive trust claims against the banks were 
+based upon dishonest assistance rather than knowing receipt (see p1580 F-G), so the 
+case is not a useful repository of learning about the need for a continuing equitable 
+interest of the claimant. But it contains the first in-depth analysis of how constructive 
+trusteeship can be established in connection with the misapplication of company 
+money. At pp1575-1577 the judge reaches the clear conclusion that, although not in 
+all respects like trustees of a strict settlement, directors are to be regarded as trustees 
+of company money under their control, so that a misapplication of it (ie other than for 
+the proper purposes of the company) amounts to a breach of trust. After reviewing In 
+re City Equitable Fire Insurance Co Ltd [1925] 1 Ch 407, 426, Russell v Wakefield 
+Waterworks Co (1875) LR 20 Eq. 474,479, In re Lands Allotment Co [1894] 1 Ch 
+616, 631, 637-639 and In re Forest of Dean Coal Mining Co (1878) 10 Ch D 450, 
+452-453 he said:
+“So, in my view, in general as in this case, a credit in a 
+company’s bank account which the directors are authorised 
+to operate are moneys of the company under the control of 
+those directors and are held by them on trust for the 
+company in accordance with its purposes.”
+57. Mr Crow drew our attention to passages in Ungoed-Thomas J’s judgment in 
+which he described constructive trusteeship (of the Barnes v Addy type) as nothing 
+more than a formula for equitable relief, (at p 1582), and constructive trust as arising 
+because of the conduct complained of, (at p 1579), in support of his submission that 
+knowing receipt was not concerned with the vindication of a continuing equitable 
+interest. But these general observations, made in a case about alleged dishonest 
+assistance, do not (and were not intended to) bear upon the question before this court.
+58. One looks almost in vain in Selangor v Cradock for an explanation of how 
+there can be a trustee-beneficiary relationship between the directors and the company 
+when both legal title and beneficial ownership are (as they almost invariably are) 
+vested in the company. A little more help is to be derived from Belmont 
