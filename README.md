@@ -17,3 +17,18 @@ python-dotenv
 
 ## step 3 - create .env file
 >touch .env
+put the OPENAI_API_KEY
+
+## step 4 - create python file entry point
+>touch home.py
+add these:
+
+import streamlit as st
+from openai import OpenAI
+from dotenv import load_dotenv
+load_dotenv() 
+
+
+
+## step x - save file
+
