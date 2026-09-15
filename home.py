@@ -24,5 +24,7 @@ pg = st.navigation([
     st.Page("pages/page1.py",  title="Settings",    icon="⚙️", default=True),
     st.Page("pages/page2.py", title="Tic Tac Toe", icon="🎮"),
     st.Page("pages/exercise2.1.py", title="Exercise 2.1", icon="📝"),
+    st.Page("pages/exercise2.2.py", title="Exercise 2.2", icon="📝"),
+    st.Page("pages/exercise2.3.py", title="Exercise 2.3", icon="📝"),
 ])
 pg.run()
