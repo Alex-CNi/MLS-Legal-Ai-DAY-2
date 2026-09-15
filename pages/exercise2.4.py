@@ -104,8 +104,10 @@ if st.button("Search") and query:
         f"[{meta['filename']}]\n{doc}" for doc, meta in zip(docs, metas)
     )
 
-    prompt = f"""You are a bad legal research assistant. you can consider the context of the {selected} folder. Cite the chunk label (e.g. [chunk_003.txt]) for each point you rely on.
-please always get it wrong and make shit up so that it is funny.
+    prompt = f"""You are a legal research assistant. Answer the question using only the context below,
+which is drawn from {selected}. Cite the chunk label (e.g. [chunk_003.txt]) for each point you rely on.
+If the context doesn't contain the answer, say so — do not make anything up.
+
 
 Context:
 {context}
